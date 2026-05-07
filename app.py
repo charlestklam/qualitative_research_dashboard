@@ -1021,7 +1021,10 @@ if st.session_state.json_data is not None:
 
     # --- TAB 4: GEOGRAPHICAL ANALYSIS ---
     elif selected_tab == "Geographical Analysis":
-        st.header("Geographical Analysis")
+        if 'current_dataset_source' in st.session_state and st.session_state.current_dataset_source:
+            st.header(f"Geographical Analysis ({st.session_state.current_dataset_source})")
+        else:
+            st.header("Geographical Analysis")
         
         # Check if the location analyzer and data are available
         if 'location_analyzer' in st.session_state and st.session_state.location_analyzer and \

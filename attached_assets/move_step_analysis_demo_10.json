@@ -1,0 +1,4716 @@
+[
+  {
+    "filename": "annotated_PubMed_38433813.json",
+    "pmid": "38433813",
+    "articleTitle": "Ethical issues experienced by otolaryngologists: a conventional content analysis",
+    "data": [
+      {
+        "segmentId": 0,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Qualitative approach and research paradigm"
+      },
+      {
+        "segmentId": 1,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "This study adhered to the \"Standards for Reporting Qualitative Research (SRQR) guideline\" for reporting (10). It employed a qualitative methodology utilizing the conventional content analysis approach. The research spanned from February 2020 to March 2021 and involved the participation of otolaryngologists."
+      },
+      {
+        "segmentId": 2,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "The research setting encompassed Imam Khomeini Hospital and Amir Alam Hospital, affiliated with Tehran University of Medical Sciences."
+      },
+      {
+        "segmentId": 3,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "Owing to Covid-19 restrictions, four interviews were conducted via WhatsApp."
+      },
+      {
+        "segmentId": 4,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Researcher characteristics and reflexivity"
+      },
+      {
+        "segmentId": 5,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Throughout the study, ZZ, a medical student, conducted the interviews."
+      },
+      {
+        "segmentId": 6,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "MMZ served as an academic member of the School of Medicine in the Department of Otolaryngology."
+      },
+      {
+        "segmentId": 7,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "SM, an academic member of the School of Nursing and Midwifery, specialized in teaching methodology and conducting qualitative research."
+      },
+      {
+        "segmentId": 8,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "AASh and AP were academic members of the Medical Ethics discipline, providing instruction in methodology and ethics."
+      },
+      {
+        "segmentId": 9,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Sampling strategy"
+      },
+      {
+        "segmentId": 10,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "The research units were selected using a purposive sampling method."
+      },
+      {
+        "segmentId": 11,
+        "labelIds": {
+          "move-1": [
+            "M1-S6"
+          ]
+        },
+        "segmentText": "For a comprehensive exploration of the concept, a homogeneous sampling method was employed based on the study's objectives and the selection of a specific group with common characteristics."
+      },
+      {
+        "segmentId": 12,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "The inclusion criteria mandated a minimum of 6 months of experience in their specialty within the hospital."
+      },
+      {
+        "segmentId": 13,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Ethical issues: To conduct the research, approval was obtained from the university (IR.TUMS.MEDICINE.REC.1397.926)."
+      },
+      {
+        "segmentId": 14,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "The participants were provided with an invitation form to seek their cooperation, and informed consent was obtained from them."
+      },
+      {
+        "segmentId": 15,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "The participants received assurance that their opinions would be treated confidentially during the interviews, and any statements made would be reported without disclosing their names."
+      },
+      {
+        "segmentId": 16,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Personal information and recorded interviews were maintained in strict confidence."
+      },
+      {
+        "segmentId": 17,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Data collection"
+      },
+      {
+        "segmentId": 18,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Data were collected through face-to-face interviews employing open-ended questions."
+      },
+      {
+        "segmentId": 19,
+        "labelIds": {
+          "move-2": [
+            "M2-S2"
+          ]
+        },
+        "segmentText": "The timing of the interviews was determined in accordance with the participants' preferences, and the duration ranged from 30 to 70 minutes, with an average of 50 minutes."
+      },
+      {
+        "segmentId": 20,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Data collection instruments and technologies"
+      },
+      {
+        "segmentId": 21,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "The interviews followed an interview guide."
+      },
+      {
+        "segmentId": 22,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Initially, coordination was established with the group supervisor."
+      },
+      {
+        "segmentId": 23,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Commencing the interview, participants were asked introductory questions after obtaining written informed consent."
+      },
+      {
+        "segmentId": 24,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Subsequently, the research problem was introduced with a general question, such as \"What ethical issues do you face in the workplace in the otolaryngology field?\""
+      },
+      {
+        "segmentId": 25,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "The interview progressed with follow-up questions like \"Can you provide an example?\""
+      },
+      {
+        "segmentId": 26,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Finally, concluding with an open-ended question such as \"What else would you like to share?\" marked the conclusion of the interview."
+      },
+      {
+        "segmentId": 27,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Study units"
+      },
+      {
+        "segmentId": 28,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Sixteen otolaryngologists (12 specialists and 4 assistants) were purposively selected to participate in the study."
+      },
+      {
+        "segmentId": 29,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Data processing and analyzing methods"
+      },
+      {
+        "segmentId": 30,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "For data analysis, the researchers employed the conventional content analysis approach using the Graneheim and Lundman method."
+      },
+      {
+        "segmentId": 31,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "The initial phase involved immersing in the text through repeated readings to develop a general understanding."
+      },
+      {
+        "segmentId": 32,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "The analysis unit was then determined, focusing on extracting key concepts and meanings to form initial codes."
+      },
+      {
+        "segmentId": 33,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Subsequently, through the examination of relationships, similarities, and differences, these codes were organized into categories and subcategories (11)."
+      },
+      {
+        "segmentId": 34,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Techniques to enhance trustworthiness"
+      },
+      {
+        "segmentId": 35,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "To ensure data accuracy and reliability, the researchers applied Lincoln and Guba's criteria (12)."
+      },
+      {
+        "segmentId": 36,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "Ensuring data credibility involved allocating sufficient time for data collection, maintaining long-term engagement with and immersion in the data, sampling from diverse locations to achieve maximum diversity, and incorporating participant feedback by coding and returning some interviews for review."
+      },
+      {
+        "segmentId": 37,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "To assess the dependability of the results, three experienced specialists with a strong background in qualitative studies acted as external reviewers."
+      },
+      {
+        "segmentId": 38,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "For the transferability of findings, the researchers aimed to create and describe a comprehensive set of study data during both the data collection and participant description stages."
+      },
+      {
+        "segmentId": 39,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "To enhance the verifiability of the data, all research stages, methodologies, and decisions made throughout the research process were described in detail and with clarity, enabling other researchers to follow the procedures if needed (12)."
+      }
+    ]
+  },
+  {
+    "filename": "annotated_PubMed_34962944.json",
+    "pmid": "34962944",
+    "articleTitle": "The circuits of healthcare: Understanding healthcare seeking behaviour—A qualitative study with tuberculosis patients in Lisbon, Portugal",
+    "data": [
+      {
+        "segmentId": 0,
+        "labelIds": {
+          "move-1": [
+            "M1-S3"
+          ]
+        },
+        "segmentText": "This is a qualitative study, embedded on a project based upon a case study on a treatment Centre for Lung Diseases (Centro de Diagnóstico Pneumológico—CDP) in Lisbon."
+      },
+      {
+        "segmentId": 1,
+        "labelIds": {
+          "move-1": [
+            "M1-S3"
+          ]
+        },
+        "segmentText": "The CDP is a medical unit, focused on out-patient TB management The project is a mixed-method single case study [25]."
+      },
+      {
+        "segmentId": 2,
+        "labelIds": {
+          "move-2": [
+            "M2-S5"
+          ]
+        },
+        "segmentText": "Here we focus on a share of the qualitative information retrieved in relation to healthcare seeking behaviours of participants."
+      },
+      {
+        "segmentId": 3,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Study setting"
+      },
+      {
+        "segmentId": 4,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "The CDP object of study is located in the north of the Greater Metropolitan Area of Lisbon."
+      },
+      {
+        "segmentId": 5,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "Its coverage area comprised three municipalities with an approximate population of 600.000 inhabitants in 2016 [26, 27]."
+      },
+      {
+        "segmentId": 6,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "One of these municipalities (Amadora) boasts the highest rate of risk factors for TB in Portugal [28]."
+      },
+      {
+        "segmentId": 7,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "An unpublished internal CDP´s report, referred a TB incidence of 28.6 cases per 100.000 inhabitants for the whole area in 2016, whilst recording 39.3 for Amadora."
+      },
+      {
+        "segmentId": 8,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "The same report lists a total of 185 notified cases, 41.0% of which foreign-born."
+      },
+      {
+        "segmentId": 9,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "The Portuguese National Health Service (SNS) provides universal access for Portuguese citizens and legal migrants [29]."
+      },
+      {
+        "segmentId": 10,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Primary Healthcare (PHC) functions as the system´s first tier encompassing an assigned MD who also acts as a gatekeeper for specialised care [29]."
+      },
+      {
+        "segmentId": 11,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "In recent years, the debate on equal access to PHC has signalled the large number of SNS users without an assigned MD [30]."
+      },
+      {
+        "segmentId": 12,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Although this problem has been tackled by authorities resulting in 93.0% of registered citizens having an assigned MD in 2018, in Amadora 26.1% of registered citizens lacked one [31]."
+      },
+      {
+        "segmentId": 13,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Nevertheless, urgent consultations with a general MD are possible at PHC level, and hospital emergency room (ER) assistance can be accessed upon users’ personal initiative."
+      },
+      {
+        "segmentId": 14,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Migrants whose legal status is irregular, and are not registered in the SNS, face greater barriers to public healthcare access [32]."
+      },
+      {
+        "segmentId": 15,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Nevertheless, when vital, urgent or of public health concern health problems, such as TB, are present, access is permitted and it is free of charge [33]."
+      },
+      {
+        "segmentId": 16,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "For situations not included in exemptions, out-of-pocket fees are charged [34]."
+      },
+      {
+        "segmentId": 17,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "TB notification is mandatory and monitored by a surveillance system—SVIG-TB which gathers information on patients´ demographic characteristics, risk groups, comorbidities, clinical, radiological and microbiological characteristics of TB, and TB delays [35]."
+      },
+      {
+        "segmentId": 18,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Data collection"
+      },
+      {
+        "segmentId": 19,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Semi-structured interviews were conducted with TB patients."
+      },
+      {
+        "segmentId": 20,
+        "labelIds": {
+          "move-2": [
+            "M2-S7"
+          ]
+        },
+        "segmentText": "A flexible topic guide was pilot tested providing insights on interview´s duration, probes and silences, and hunches on how to modify questions to get richer answers."
+      },
+      {
+        "segmentId": 21,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "RR conducted all interviews; the experience of being a family doctor and a PhD student provided the necessary training."
+      },
+      {
+        "segmentId": 22,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Moreover, RR has worked in healthcare centres with persons without an assigned MD, in the Lisbon area, and with TB patients in Mozambique."
+      },
+      {
+        "segmentId": 23,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "The interview guide is annexed as “S1 Appendix”."
+      },
+      {
+        "segmentId": 24,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Inclusion criteria were, age 18 years or over, receiving active TB treatment and attending the CDP between October 2018 and January 2019."
+      },
+      {
+        "segmentId": 25,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Exclusion criteria were severe illness at presentation."
+      },
+      {
+        "segmentId": 26,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "The CDP pneumologist´s opinion was considered when inviting patients."
+      },
+      {
+        "segmentId": 27,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Two different sampling techniques were used to gather more information about recent migrants: a) purposive sampling: targeting migrant patients arriving in Portugal during the previous 2 years (2017 and 2018); b) convenience sampling: encompassing all patients meeting the inclusion criteria and scheduled for a consultation."
+      },
+      {
+        "segmentId": 28,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Interviews were held in a private room, in a one-time, one-to-one format, lasting about 40 minutes, following TB consultations."
+      },
+      {
+        "segmentId": 29,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "We audio-recorded interviews, and if permission was withheld interview notes were taken."
+      },
+      {
+        "segmentId": 30,
+        "labelIds": {
+          "move-2": [
+            "M2-S6"
+          ]
+        },
+        "segmentText": "Twenty-seven patients were interviewed during 3 months field work, after which data collection appeared to have reached saturation, as people´s narrative did not seem to bring new information on key topics [36]."
+      },
+      {
+        "segmentId": 31,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "Data analysis"
+      },
+      {
+        "segmentId": 32,
+        "labelIds": {
+          "move-3": [
+            "M3-S1"
+          ]
+        },
+        "segmentText": "Recorded interviews were transcribed verbatim."
+      },
+      {
+        "segmentId": 33,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "RR used manual descriptive thematic analysis to assess the transcripts [37]."
+      },
+      {
+        "segmentId": 34,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "The initial coding frame was developed independently by IC and RR based on the first 6 interviews (22%); differences were resolved by discussion and thematical consensus generation was achieved."
+      },
+      {
+        "segmentId": 35,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Further coding was done by RR."
+      },
+      {
+        "segmentId": 36,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "An Excel spreadsheet (Microsoft, Redmond, WA, USA) was used as a software tool to assist codification and analysis."
+      },
+      {
+        "segmentId": 37,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Data was analysed inductively and deductively following a constructivist approach as we focused on participants´ personal experiences and perceptions for generating data."
+      },
+      {
+        "segmentId": 38,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Comparisons were made between interviews to establish common patterns and differences in the data [38]."
+      },
+      {
+        "segmentId": 39,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "The inductive information was saturated in the course of a theory building process: enough examples were provided to exemplify each conceptual category [36]."
+      },
+      {
+        "segmentId": 40,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "Clinical processes were checked to match time lapses between participants´ discourse and clinical registers."
+      },
+      {
+        "segmentId": 41,
+        "labelIds": {
+          "move-3": [
+            "M3-S1"
+          ]
+        },
+        "segmentText": "Quotes were translated and grammatically corrected."
+      },
+      {
+        "segmentId": 42,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "The application of HBM emerged during the analysis stage, being used as a conceptual explanatory framework to consolidate the findings [21]."
+      },
+      {
+        "segmentId": 43,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "The research team comprised a female, family doctor and PhD student (RR), a female PhD sociologist and assistant professor (IC), and a male PhD anthropologist and assistant professor (PH)."
+      },
+      {
+        "segmentId": 44,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "We used the consolidated criteria for reporting qualitative research (COREQ) attached as “S2 Appendix” [39]."
+      },
+      {
+        "segmentId": 45,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Ethical considerations"
+      },
+      {
+        "segmentId": 46,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Participants were encouraged to talk freely; interruptions were avoided, since TB may touch upon sensitive personal issues."
+      },
+      {
+        "segmentId": 47,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Written informed consent was obtained after the study´s goals and privacy statements, were explained."
+      },
+      {
+        "segmentId": 48,
+        "labelIds": {
+          "move-3": [
+            "M3-S1"
+          ]
+        },
+        "segmentText": "All data were anonymized."
+      },
+      {
+        "segmentId": 49,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Files and informed consent are stored safely and confidentially."
+      },
+      {
+        "segmentId": 50,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "All raw data from the interviews will be destroyed when the project is concluded."
+      },
+      {
+        "segmentId": 51,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Participants did not receive financial compensation for participating nor had access to the transcripts or feedback from the results."
+      },
+      {
+        "segmentId": 52,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "The project´s protocol was approved by the Ethics Committee of Lisbon and Tagus Valley Regional Health Administration (ARS-LVT—ref.11703/CES/2018)."
+      }
+    ]
+  },
+  {
+    "filename": "annotated_PubMed_38248515.json",
+    "pmid": "38248515",
+    "articleTitle": "Coping Resources among Forced Migrants in South Africa: Exploring the Role of Character Strengths in Coping, Adjustment, and Flourishing",
+    "data": [
+      {
+        "segmentId": 0,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "The"
+      },
+      {
+        "segmentId": 1,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "sample consisted of 14 Africans who were asylees (57.2%) or refugees (42.9%) residing in Durban, South Africa."
+      },
+      {
+        "segmentId": 2,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "They were from the Democratic Republic of Congo (DRC; n = 5), Burundi (n = 4), Eritrea (n = 2), Zimbabwe (n = 2), and Somalia (n = 1)."
+      },
+      {
+        "segmentId": 3,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "The average age of the participants was 30.27 years (SD = 9.3, range = 24–42), and the majority were men (71.4%)."
+      },
+      {
+        "segmentId": 4,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "In terms of religion, 71.4% self-identified as Christian, and the remainder as Muslim (14.3%) or Rastafarian (7.2%)."
+      },
+      {
+        "segmentId": 5,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Half were married (50.0%), and the rest were single (42.9%) or divorced (7.2%)."
+      },
+      {
+        "segmentId": 6,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "2.2. Procedure"
+      },
+      {
+        "segmentId": 7,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Ethical approval for this study was granted by the Human and Social Sciences Ethics Committee at the University of KwaZulu-Natal."
+      },
+      {
+        "segmentId": 8,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Potential participants were informed about this study’s aim and objectives in a language they understood."
+      },
+      {
+        "segmentId": 9,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "They were also informed about the voluntariness of their participation, as well as anonymity, confidentiality, and the use of audio recordings for all interviews."
+      },
+      {
+        "segmentId": 10,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Those who agreed to participate signed a written consent."
+      },
+      {
+        "segmentId": 11,
+        "labelIds": {
+          "move-1": [
+            "M1-S6"
+          ]
+        },
+        "segmentText": "Participants were purposively selected to capture diverse lived experiences of local asylees and refugees."
+      },
+      {
+        "segmentId": 12,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Initial contacts with prospective participants were made via the first author’s network of relationships with people and organizations connected to the local asylee and refugee community."
+      },
+      {
+        "segmentId": 13,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Most participants (n = 8) were recruited from Refugee Social Services, which is a non-profit organization that offers a range of social services."
+      },
+      {
+        "segmentId": 14,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "The remaining participants (n = 6) were recruited using snowball sampling via local activist and refugee rights organizations."
+      },
+      {
+        "segmentId": 15,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "All interviews were conducted between March and May 2018."
+      },
+      {
+        "segmentId": 16,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "Two of the authors (AT and AMW) developed and refined a semi-structured interview protocol based on a review of the literature."
+      },
+      {
+        "segmentId": 17,
+        "labelIds": {
+          "move-2": [
+            "M2-S5"
+          ]
+        },
+        "segmentText": "Questions elicited descriptions of participants’ experiences in their own words (e.g., “What were the most stressful experiences you have witnessed or experienced in your home country, during migration, and/or post-migration?”) as well as their coping resources (e.g., “How were/are you dealing with these challenges?”)."
+      },
+      {
+        "segmentId": 18,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "The first author conducted all interviews in a comfortable location that was convenient for participants to access."
+      },
+      {
+        "segmentId": 19,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Nine interviews were conducted in English, three in Swahili, and two in Tigrigna."
+      },
+      {
+        "segmentId": 20,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "A trained interpreter was hired for the Swahili interviews, and Tigrigna is the native language of the first author."
+      },
+      {
+        "segmentId": 21,
+        "labelIds": {
+          "move-2": [
+            "M2-S2"
+          ]
+        },
+        "segmentText": "Each interview was completed in approximately 60 min."
+      },
+      {
+        "segmentId": 22,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Basic refreshments and transportation costs were provided to participants."
+      },
+      {
+        "segmentId": 23,
+        "labelIds": {
+          "move-3": [
+            "M3-S1"
+          ]
+        },
+        "segmentText": "Interviews were then transcribed, with those conducted in Swahili and Tigrigna subsequently translated into English."
+      },
+      {
+        "segmentId": 24,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "2.3. Qualitative Analysis Plan"
+      },
+      {
+        "segmentId": 25,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "This study used a subset of data from a larger project exploring migration experiences, psychological distress, and coping among forced migrants in South Africa [25]."
+      },
+      {
+        "segmentId": 26,
+        "labelIds": {
+          "move-1": [
+            "M1-S3"
+          ]
+        },
+        "segmentText": "Given our focus on capturing emic perspectives of asylees and refugees, we utilized a descriptive phenomenological data analytic approach."
+      },
+      {
+        "segmentId": 27,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Central to phenomenology is the concept of epoché, meaning bracketing or suspension in order to capture a first-person point of view [26]."
+      },
+      {
+        "segmentId": 28,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Bracketing aims to see the phenomena at hand in a new light; thus, the researchers suspend previous knowledge and views underpinning existing attitudes [27]."
+      },
+      {
+        "segmentId": 29,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "The analysis was conducted by AT, a post-doctoral research fellow in psychology (African refugee and activist, male), and AMW, a professor of psychology (South African White female)."
+      },
+      {
+        "segmentId": 30,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "Although it is not possible to achieve complete bracketing, the analytic team took active steps through ongoing discussion and self-reflection to recognize how cultural and educational backgrounds might influence the interpretive process."
+      },
+      {
+        "segmentId": 31,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "A descriptive-phenomenological design is guided by the assumptions of phenomenological reduction and the researchers refraining from drawing on existing knowledge or perceptions [27]."
+      },
+      {
+        "segmentId": 32,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "While this analytic method does not lead to theory-building, its strength lies in enabling researchers to retain and center participants’ voices to capture subjective-psychological perspectives [28]."
+      },
+      {
+        "segmentId": 33,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "In this study, five steps of data analysis outlined by Giorgi [27] were utilized."
+      },
+      {
+        "segmentId": 34,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "First, the analytic team read each transcription to obtain a sense of the whole and become familiar with participants’ lived experiences."
+      },
+      {
+        "segmentId": 35,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "The second step involved adopting an open or unspecified attitude (i.e., performing ‘reduction and bracketing’) to explore the phenomenon."
+      },
+      {
+        "segmentId": 36,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Next, the researchers delineated meaning units from within the narratives to capture distinct meanings; this was an iterative process involving discussion among the analytic team until consensus was reached."
+      },
+      {
+        "segmentId": 37,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Fourth, meaning units were transformed into more psychologically sensitive statements using an imaginative variation."
+      },
+      {
+        "segmentId": 38,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "This process entailed intuiting and transforming participants’ lived experiences into language, highlighting unique psychological meanings."
+      },
+      {
+        "segmentId": 39,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "In the last step, the transformed meaning unit codes were used to describe the psychological structure of participants’ experiences, enabling the researchers to identify meanings shared across participants."
+      },
+      {
+        "segmentId": 40,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Then, thick descriptions highlighting overarching themes were developed and codes with adjacent meanings (e.g., hope and optimism) were grouped together in the write-up."
+      }
+    ]
+  },
+  {
+    "filename": "annotated_PubMed_26685288.json",
+    "pmid": "26685288",
+    "articleTitle": "A Community-Engaged Approach to Developing an mHealth HIV/STI and Drug Abuse Preventive Intervention for Primary Care: A Qualitative Study",
+    "data": [
+      {
+        "segmentId": 0,
+        "labelIds": {
+          "move-1": [
+            "M1-S3"
+          ]
+        },
+        "segmentText": "This study was guided by the principles of CBPR (eg, build on the strengths and resources of the community [23])."
+      },
+      {
+        "segmentId": 1,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "As part of this approach, the Youth Leadership Council (YLC) was engaged in all aspects of the study, including proposal submission, development of the interview guide, participant recruitment, identification of content for app development, and manuscript preparation."
+      },
+      {
+        "segmentId": 2,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "The YLC is a diverse, youth-led group that aims to research community health issues, use media and the arts to advocate for change, and partner with universities to make the primary care clinic and surrounding community a healthier place for adolescents."
+      },
+      {
+        "segmentId": 3,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "Sampling and Recruitment"
+      },
+      {
+        "segmentId": 4,
+        "labelIds": {
+          "move-2": [
+            "M2-S6"
+          ]
+        },
+        "segmentText": "Initially, we aimed to recruit younger adolescents (ie, 13-15 years of age). However, at the recommendation of the YLC, we changed our approach and targeted a study sample that was more representative of the primary care clinic population (ie, 12-21 years of age)."
+      },
+      {
+        "segmentId": 5,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Therefore, to be included in this study, participants had to (1) be between 13 and 18 years of age, and (2) provide assent and parental consent (if under 18 years of age)."
+      },
+      {
+        "segmentId": 6,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Potential participants were recruited from the waiting room of the primary care clinic via strategies found to be effective when conducting qualitative research with vulnerable populations [24]."
+      },
+      {
+        "segmentId": 7,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "As such, recruitment procedures included establishing relationships with the primary care clinic, face-to-face flier distribution, word of mouth, and snowballing approaches."
+      },
+      {
+        "segmentId": 8,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "For example, participants reached out to their peers who also received services at the clinic and informed them about the study."
+      },
+      {
+        "segmentId": 9,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "Data collection occurred between December 2013 and October 2014, and was approved by our University’s Institutional Review Board."
+      },
+      {
+        "segmentId": 10,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "A total of 29 adolescents participated in this study."
+      },
+      {
+        "segmentId": 11,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Participants were primarily African American (n=19, 65.5%), followed by non-Hispanic white (n=7, 24.1%), Hispanic (n=2, 6.8%), and other (n=1, 3.4%)."
+      },
+      {
+        "segmentId": 12,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "The majority of adolescents were female (n=21, 72.4%) with a mean age of 16.21 (SD 2.12)."
+      },
+      {
+        "segmentId": 13,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Interview Guide"
+      },
+      {
+        "segmentId": 14,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "The interview guide consisted of 3 open-ended grand tour questions aimed at minimizing questioning bias and privileging participants’ voices: “Would you please describe your thoughts about participating in an intervention delivered on a mobile device through your primary care clinic that is designed to prevent HIV/STI and drug abuse in adolescents?”"
+      },
+      {
+        "segmentId": 15,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "“What content would you find most helpful to include and engage people your age?”"
+      },
+      {
+        "segmentId": 16,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "“Would you please describe your thoughts regarding the design aspects and what the app should look like?”"
+      },
+      {
+        "segmentId": 17,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "The grand tour questions were followed by probes to gather in-depth data (eg, “How long should the app last?”)."
+      },
+      {
+        "segmentId": 18,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "Furthermore, we included probes to ensure that our questions were tethered to the SFE modules and to gather in-depth data on how they could be translated to an app-like experience."
+      },
+      {
+        "segmentId": 19,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "For example, our grand tour question, “What content would you find most helpful to include and engage people your age?” was followed by probes such as, “What information with respect to HIV/STI and drug use would you find helpful in an app?”"
+      },
+      {
+        "segmentId": 20,
+        "labelIds": {
+          "move-2": [
+            "M2-S5"
+          ]
+        },
+        "segmentText": "Data gathered from this probe were then applied to the development of the knowledge aspects of the app, which correspond to knowledge-, skill-, personal-, character-, cultural-, and future-power aspects of SFE."
+      },
+      {
+        "segmentId": 21,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "To ensure that we did not overlook any design, content, or process aspects that adolescents believed to be important in the development of the app, participants were asked at the conclusion of the interview to discuss any relevant topics that were not addressed."
+      },
+      {
+        "segmentId": 22,
+        "labelIds": {
+          "move-2": [
+            "M2-S6"
+          ]
+        },
+        "segmentText": "Consistent with the iterative process, the interview guide was gradually modified after each interview to include probes that participants identified as relevant and that were not initially included in the interview guide (eg, “What are your thoughts on including a risk assessment to promote clinician-adolescent communication?”)."
+      },
+      {
+        "segmentId": 23,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Procedures"
+      },
+      {
+        "segmentId": 24,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Focus group and individual interviews were utilized for data collection."
+      },
+      {
+        "segmentId": 25,
+        "labelIds": {
+          "move-1": [
+            "M1-S6"
+          ]
+        },
+        "segmentText": "Focus group interviews have been shown to be empowering for vulnerable populations, as the group processes allow for a shared experience among participants and may produce data that cannot be obtained solely through individual interviews [24,25]."
+      },
+      {
+        "segmentId": 26,
+        "labelIds": {
+          "move-2": [
+            "M2-S2"
+          ]
+        },
+        "segmentText": "A total of 9 focus group interviews (n=25) were conducted and ranged in size from 2 to 6 participants."
+      },
+      {
+        "segmentId": 27,
+        "labelIds": {
+          "move-1": [
+            "M1-S6"
+          ]
+        },
+        "segmentText": "A limitation to focus group interviews, however, is that not all adolescents may feel comfortable discussing topics related to sexual risk and drug use behaviors in a group setting."
+      },
+      {
+        "segmentId": 28,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Therefore, we also conducted individual interviews (n=4)."
+      },
+      {
+        "segmentId": 29,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "All interviews were conducted in a private room located in the primary care clinic."
+      },
+      {
+        "segmentId": 30,
+        "labelIds": {
+          "move-2": [
+            "M2-S2"
+          ]
+        },
+        "segmentText": "Each interview was digitally recorded, lasted between 45 and 75 minutes, and was facilitated by the lead author and trained research assistants."
+      },
+      {
+        "segmentId": 31,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Prior to each interview, a meal was shared between the research team and participants, aimed at facilitating informal conversations and building rapport [24]."
+      },
+      {
+        "segmentId": 32,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Participants were provided bus tokens and received a US $20 incentive."
+      },
+      {
+        "segmentId": 33,
+        "labelIds": {
+          "move-1": [
+            "M1-S3"
+          ]
+        },
+        "segmentText": "Guided by the principles of agile software development [26], the qualitative interviews and app programming were synergistic."
+      },
+      {
+        "segmentId": 34,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Agile software development aims for continuous design improvement and testing based on rapid feedback and change [26]."
+      },
+      {
+        "segmentId": 35,
+        "labelIds": {
+          "move-2": [
+            "M2-S5"
+          ]
+        },
+        "segmentText": "The development of the HIV/STI and alcohol/drug modules was informed by the qualitative interviews in conjunction with relevant National Institute on Drug Abuse (NIDA) core prevention principles."
+      },
+      {
+        "segmentId": 36,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "For the purposes of this study, we employed NIDA-recommended prevention principles 1, 2, 3, 4, 8, 9, 12, 13, 15, and 16 [27] (Table 1)."
+      },
+      {
+        "segmentId": 37,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "While we conducted interviews to identify HIV/STI and drug use-specific content to include in the app, the interface was being built."
+      },
+      {
+        "segmentId": 38,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Thus, the backend system and framework (eg, code, database, design) were developed as qualitative data were collected."
+      },
+      {
+        "segmentId": 39,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "As part of the iterative process, weekly meetings were held with the programmer to discuss all aspects of the app development, including content, framework, and UX (user experience)."
+      },
+      {
+        "segmentId": 40,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Once the qualitative interviews were completed and content was finalized, the messaging was incorporated into the interface."
+      },
+      {
+        "segmentId": 41,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Analytic Approach"
+      },
+      {
+        "segmentId": 42,
+        "labelIds": {
+          "move-3": [
+            "M3-S1"
+          ]
+        },
+        "segmentText": "Trained research assistants transcribed verbatim the digital audio recordings of each interview."
+      },
+      {
+        "segmentId": 43,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "A different research team member then reviewed these transcripts for accuracy."
+      },
+      {
+        "segmentId": 44,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "Data were transferred to NVivo 10 (QSR International Pty Ltd) for storage, organization, and analysis."
+      },
+      {
+        "segmentId": 45,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Data analysis followed the tenets of thematic analysis, which consisted of 6 sequential steps [28,29]."
+      },
+      {
+        "segmentId": 46,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "First, the research team familiarized themselves with the data by transcribing all interviews and reviewing each transcription prior to the next scheduled interview."
+      },
+      {
+        "segmentId": 47,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Second, the research team met weekly and generated an initial list of codes to discuss."
+      },
+      {
+        "segmentId": 48,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Third, the initial codes were collated into emerging themes."
+      },
+      {
+        "segmentId": 49,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Fourth, the team generated a thematic table of the analyses and checked the extent to which the emerging themes reflected the coded extracts and data."
+      },
+      {
+        "segmentId": 50,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Fifth, the team generated clear definitions and names for each theme and overall analysis."
+      },
+      {
+        "segmentId": 51,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Lastly, the team identified the most compelling examples relating back to the analysis of the study [28,29]."
+      },
+      {
+        "segmentId": 52,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "The analytic process yielded 252 initial codes."
+      },
+      {
+        "segmentId": 53,
+        "labelIds": {
+          "move-2": [
+            "M2-S5"
+          ]
+        },
+        "segmentText": "Of these, 5 themes were identified (see Table 2 for the analytic process): (1) an mHealth app is acceptable to adolescents in primary care, (2) inclusion of a risk assessment to improve clinician-adolescent HIV/STI and drug use communication, (3) incorporation of culturally specific HIV/STI and drug use content, (4) incorporation of interactive aspects in the app to engage youth, and (5) perspectives on the appearance of the app."
+      },
+      {
+        "segmentId": 54,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "Following each theme, we describe the ways in which qualitative data were used to inform the development of the S4E app and, where applicable, how each aspect translates to the content of the original SFE intervention."
+      },
+      {
+        "segmentId": 55,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Trustworthiness of Data"
+      },
+      {
+        "segmentId": 56,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Trustworthiness of data is the process by which methodological rigor is employed to minimize researcher bias and ensure study findings accurately describe the participants’ perspectives [30,31]."
+      },
+      {
+        "segmentId": 57,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "Trustworthiness was established through credibility, transferability, dependability, and confirmability [31]."
+      },
+      {
+        "segmentId": 58,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "To ensure credibility, or rigor in the research process, the research team participated in prolonged engagement with participants, research reflexivity, and coanalysis."
+      },
+      {
+        "segmentId": 59,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "The primary author, for example, made many informal visits to the primary care clinic, including sharing meals with potential and former participants."
+      },
+      {
+        "segmentId": 60,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Transferability is the extent to which study findings can be applied to other contexts."
+      },
+      {
+        "segmentId": 61,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "To this end, the study sample and methodological approach used to develop the app have been described in detail."
+      },
+      {
+        "segmentId": 62,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Dependability is concerned with working toward explicit and repeatable study findings."
+      },
+      {
+        "segmentId": 63,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "This was achieved by conducting an audit trail to document research decision-making processes."
+      },
+      {
+        "segmentId": 64,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Lastly, confirmability acknowledges that in qualitative research, because the researcher is the data collection instrument, there is the potential for biases."
+      },
+      {
+        "segmentId": 65,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "Because the data collection and app development were synergistic, this process allowed for management of subjectivity."
+      },
+      {
+        "segmentId": 66,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "For example, in each subsequent interview, we provided examples of design templates informed by feedback from previous interviews."
+      },
+      {
+        "segmentId": 67,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "This was done once participants shared their perspective and essentially served as member checks [31]."
+      }
+    ]
+  },
+  {
+    "filename": "annotated_PubMed_33384400.json",
+    "pmid": "33384400",
+    "articleTitle": "Qualitative study to explore what patients with heart failure find significant during integrated palliative care sessions in a Danish clinic",
+    "data": [
+      {
+        "segmentId": 0,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "This"
+      },
+      {
+        "segmentId": 1,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "study explored what patients with HF found significant in integrated PC and HF sessions using a narrative approach."
+      },
+      {
+        "segmentId": 2,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "A PC intervention for HF"
+      },
+      {
+        "segmentId": 3,
+        "labelIds": {
+          "move-1": [
+            "M1-S6"
+          ]
+        },
+        "segmentText": "On the basis of current research17 exploring the need for8 and lack of knowledge of PC in a general hospital setting, an intervention was designed and implemented alongside the standard treatment provided by a general outpatient HF clinic at a hospital in Denmark."
+      },
+      {
+        "segmentId": 4,
+        "labelIds": {
+          "move-1": [
+            "M1-S6"
+          ]
+        },
+        "segmentText": "The principal ideas for this PC intervention were (1) to operationalise the WHO definition of PC, (2) to integrate patient and professional perspectives using dialogue and personal narratives and (3) to integrate the PC intervention into the standard treatment and care of patients with HF to enable large-scale implementation."
+      },
+      {
+        "segmentId": 5,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "These ideas were converted into the following actions: educating the interdisciplinary team in PC as well as HF through a seminar."
+      },
+      {
+        "segmentId": 6,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "The seminar presented current knowledge on PC for patients with HF, examples of the organisation of PC in HF treatment in Denmark and a panel discussion on clinical cases."
+      },
+      {
+        "segmentId": 7,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Furthermore, the intervention nurses were trained in communication with a narrative S’ approach."
+      },
+      {
+        "segmentId": 8,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Through workshops, the interdisciplinary project group adjusted the inspirational S’ questions to focus less on end of life and more on life with a life-threatening illness."
+      },
+      {
+        "segmentId": 9,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "The intervention nurses were responsible for exploring the patient perspective using the adjusted S’ approach."
+      },
+      {
+        "segmentId": 10,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "They invited the patients to share experiences, worries or thoughts from their life supported by a guide with inspirational questions."
+      },
+      {
+        "segmentId": 11,
+        "labelIds": {
+          "move-3": [
+            "M3-S1"
+          ]
+        },
+        "segmentText": "The narrative approach was integrated into the standard HF sessions, and the nurses documented the narrative under S categories in the patient’s file, making it accessible to the interdisciplinary team."
+      },
+      {
+        "segmentId": 12,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Every 4 weeks, an interdisciplinary conference was held."
+      },
+      {
+        "segmentId": 13,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "During the conference, the nurses presented possible PC needs based on the S’ words and received recommendations from the other members on how to manage a need."
+      },
+      {
+        "segmentId": 14,
+        "labelIds": {
+          "move-2": [
+            "M2-S2"
+          ]
+        },
+        "segmentText": "The mean number of sessions with the nurse was 8, with a range from 3 to 13."
+      },
+      {
+        "segmentId": 15,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "Figure 1 illustrates the integrated intervention."
+      },
+      {
+        "segmentId": 16,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "Figure 1 Integrated heart failure (HF) and palliative care (PC) intervention."
+      },
+      {
+        "segmentId": 17,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Patient and public involvement"
+      },
+      {
+        "segmentId": 18,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "As this is a qualitative interview study, patients played an essential part as informants."
+      },
+      {
+        "segmentId": 19,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "In addition, this study is part of a larger PhD study aimed at changing clinical practice."
+      },
+      {
+        "segmentId": 20,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "During this process, patients and professionals from cardiology and PC were involved at different stages: (1) we conducted semistructured interviews with patients with HF to inform needs for a PC intervention; (2) we conducted workshops with professionals to develop integrated PC and HF sessions using a narrative approach."
+      },
+      {
+        "segmentId": 21,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Study design"
+      },
+      {
+        "segmentId": 22,
+        "labelIds": {
+          "move-1": [
+            "M1-S3"
+          ]
+        },
+        "segmentText": "We chose a qualitative interview study design to explore subjective experience of patients with HF of sessions using the S' approach (hereafter, these are referred to as ‘sessions’)."
+      },
+      {
+        "segmentId": 23,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "The study follows the Consolidated Criteria for Reporting Qualitative Research guidelines.22 Participants The inclusion criteria for the PC intervention were (1) a new diagnosis of HF, (2) follow-up treatment at this local Danish HF clinic and (3) informed consent to participate in the integrated PC intervention."
+      },
+      {
+        "segmentId": 24,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "The only exclusion criterion was if the patient had already followed a PC offer due to other illnesses."
+      },
+      {
+        "segmentId": 25,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "The inclusion period was March–August 2019, and the aim was to include between 20 and 25 participants."
+      },
+      {
+        "segmentId": 26,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "As patients were referred to the HF clinic, the first author approached them by phone or in person, inviting them to join the integrated PC intervention."
+      },
+      {
+        "segmentId": 27,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Patients all received information about the study in writing and were encouraged to discuss it with family, professionals or the first author before deciding to participate."
+      },
+      {
+        "segmentId": 28,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "In all, 22 patients were approached, 20 agreed to participate in the PC intervention and 12 of these completed the sessions and participated in this interview study (see figure 2)."
+      },
+      {
+        "segmentId": 29,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "Figure 2 Flow chart of participants."
+      },
+      {
+        "segmentId": 30,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "PC, palliative care."
+      },
+      {
+        "segmentId": 31,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Data collection"
+      },
+      {
+        "segmentId": 32,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "To gain an understanding of the lived experiences of participating in the sessions, the first author planned and performed individual semistructured interviews with the patients as they concluded the sessions."
+      },
+      {
+        "segmentId": 33,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Participant observations were conducted by the first author during earlier sessions; hence, a relationship had already been established with the patients."
+      },
+      {
+        "segmentId": 34,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Only the interview data will be presented in this analysis."
+      },
+      {
+        "segmentId": 35,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "The key question, ‘please tell me your experiences with the sessions at the HF clinic’, guided the interview."
+      },
+      {
+        "segmentId": 36,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "If necessary, the first author followed up with, ‘can you say a bit more about that?’ or ‘what did that mean to you?’"
+      },
+      {
+        "segmentId": 37,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "To create a calm and engaged atmosphere as well as a sense of neutrality, most interviews were conducted at the participants’ homes."
+      },
+      {
+        "segmentId": 38,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Some participants preferred to have their spouse present."
+      },
+      {
+        "segmentId": 39,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "However, due to logistics, three patients preferred that the interview took place at the HF clinic in conjunction with their last follow-up visit."
+      },
+      {
+        "segmentId": 40,
+        "labelIds": {
+          "move-3": [
+            "M3-S1"
+          ]
+        },
+        "segmentText": "The interviews had a mean duration of 61 min and were audio recorded and transcribed ad verbatim."
+      },
+      {
+        "segmentId": 41,
+        "labelIds": {
+          "move-2": [
+            "M2-S6"
+          ]
+        },
+        "segmentText": "By the 10th interview, data saturation consistent with our aim, sampling plan and inclusion criteria had occurred.23 Demographic data for the patients participating in the study are presented in table 1."
+      },
+      {
+        "segmentId": 42,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "Table 1 Participant demographic data Participant P1 P2 P3 P4 P5 P6 P7 P8 P9 P10 P11 P12 Sex F M F M M M M F F M M M Age 60s 50s 80s 70s 60s 50s 70s 70s 80s 40s 70s 70s Married/partner Yes No No Yes Yes Yes Yes No No Yes Yes Yes Other diagnoses MI VAB, AF NST, COL BPH NST SCA ASHD NP ASHD, RI CHD AF, HT Sessions 10 13 7 7 5 3 8 13 10 7 6 6 AF, atrial fibrillation; ASHD, arteriosclerotic heart disease; BPH, benign prostatic hyperplasia; CHD, coronary heart disease; COL, chronic obstructive lung disease; HT, hypertension; MI, mitral insufficiency; NP, nephropathy; NST, non-ST-elevation acute myocardial infarction; RI, renal insufficiency; SCA, sudden cardiac arrest; VAB, bicuspid aortic valve."
+      },
+      {
+        "segmentId": 43,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Data analysis and interpretation"
+      },
+      {
+        "segmentId": 44,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "The first author used the software programme NVivo V.12 Pro for coding and managing data, with the following steps as described by Green: (1) organising the data, (2) familiarising ourselves with the data, (3) coding the data and (4) creating the themes.24 The qualitative thematic analysis, informed by Kvale and Brinkmann, focused on meaning making.25 It was derived through a continuous hermeneutic process of going back and forth between parts and the whole in discussion with the coauthors.25 The analysis was further interpreted using theory and additional research from the field."
+      }
+    ]
+  },
+  {
+    "filename": "annotated_PubMed_30596660.json",
+    "pmid": "30596660",
+    "articleTitle": "Impacts of impaired face perception on social interactions and quality of life in age-related macular degeneration: A qualitative study and new community resources",
+    "data": [
+      {
+        "segmentId": 0,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Participants"
+      },
+      {
+        "segmentId": 1,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "were N = 21 AMD patients (all Caucasian; 16 female, 5 male; age M = 83.5 years, SD = 7.3, range = 66 to 92)."
+      },
+      {
+        "segmentId": 2,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "To be eligible to participate, patients had to: (a) be diagnosed by a qualified ophthalmologist as having AMD in both eyes and no other eye diseases (to ensure any vision-related problems were attributable specifically to AMD; note non-visually significant lens opacity was permitted); and (b) not have dementia (patients who disclosed a diagnosis of dementia during recruitment were not invited to participate, and all tested participants demonstrated normal levels of cognitive functioning during interview)."
+      },
+      {
+        "segmentId": 3,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Additionally, (c) patients had to report, on initial contact, experiencing difficulties seeing faces in their everyday life: while all patients with moderate and severe vision loss would be expected to experience face perception problems [11–15], early-stage AMD patients might not and, it is necessary for patients to report face perception problems to then interview them about the effects of those problems on social interactions and quality of life (i.e., patients not yet experiencing face problems would add no data concerning our major aims)."
+      },
+      {
+        "segmentId": 4,
+        "labelIds": {
+          "move-2": [
+            "M2-S6"
+          ]
+        },
+        "segmentText": "Participants were recruited until (a) we had covered a wide range of severity of vision loss from mild to legally blind (Table 1), and (b) saturation was reached in the qualitative interview results (i.e., no new experience types were being reported, the standard criterion for sufficient sample size in qualitative research, e.g., [23,24])."
+      },
+      {
+        "segmentId": 5,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Patients were recruited through advertisement or individual approach from author JL, via: The Canberra Hospital Eye Clinic; a private ophthalmologist’s clinical rooms; local radio interview discussing the study; or letter from the Macular Disease Foundation Australia to AMD patients living in the Canberra region."
+      },
+      {
+        "segmentId": 6,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "10.1371/journal.pone.0209218.t001 Table 1 Individual patient details, with patients ordered by acuity (BCVA) in their best eye1."
+      },
+      {
+        "segmentId": 7,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "Patient code & vision loss category Agein years Sex 2 Best Eye Best Eye Visual Acuity Best Eye Diagnosis Mild (<6/6 to 6/18) BCVA LCVA P1 85 F R 6/7.5 6/15 Dry AMD P2 91 (93) 3 F L 6/9.5 6/19 Wet AMD P3 86 F R 6/12 6/30 Dry AMD P4 70 F R 6/12 6/19 Wet AMD P5 78 (78) F L 6/15 6/38 Wet AMD P6 87 F R 6/15 6/30 Wet AMD P7 86 F L 6/15 6/60 Dry AMD P8 86 F R 6/15 6/60 Early AMD Moderate (<6/18 to 6/60) P9 4 73 F R 6/19 6/30 Wet AMD P10 79 M R 6/19 6/48 Dry AMD P11 88 M L 6/19 6/48 Wet AMD P12 92 F L 6/24 6/38 Early AMD P13 66 (68) F L 6/24 6/60 Wet AMD P14 82 M R 6/38 6/48 Wet AMD P15 84 F L 6/38 6/60 Wet AMD P16 78 M L 6/60 6/95 Dry AMD Severe (<6/60) P17 4 89 F R <6/60 5 – Wet AMD P18 82 F R 6/75 6/150 Dry AMD P19 92 (94) F L 6/75 6/120 Wet AMD P20 90 M L 6/75 6/190 Wet AMD P21 91 F L 6/190 <6/240 6 End-stage AMD Notes 1 Additional vision testing data, plus information for the other eye, in Table A S4 File. 2 Codes: M = male, F = female; L = left eye (i.e., OS, ocular sinister), R = right eye (i.e., OD, oculus dextrus); BCVA = Best Corrected Visual Acuity (high contrast letter stimuli), LCVA = Low Contrast Visual Acuity; \"<\" = worse than. 3 For the 4 participants with more than 6 months between interviews, age value in brackets gives the age at time of second interview. Table A S4 File provides acuity results on repeat test at time of second interview."
+      },
+      {
+        "segmentId": 8,
+        "labelIds": {
+          "move-2": [
+            "M2-S2"
+          ]
+        },
+        "segmentText": "None of the 4 participants' vision had degraded sufficiently to change them into a more severe vision loss category."
+      },
+      {
+        "segmentId": 9,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "4 Participants P9 and P17 did not do the second interview due to ill health."
+      },
+      {
+        "segmentId": 10,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "5 P17 did not have a vision assessment at the ANU and her visual acuity (BCVA only) was reported by her ophthalmologist."
+      },
+      {
+        "segmentId": 11,
+        "labelIds": {
+          "move-3": [
+            "M3-S1"
+          ]
+        },
+        "segmentText": "For correlations (Table 2) her BCVA value was entered as 6/60 or logMAR +1.0."
+      },
+      {
+        "segmentId": 12,
+        "labelIds": {
+          "move-2": [
+            "M2-S2"
+          ]
+        },
+        "segmentText": "6 LCVA listed as <6/240 indicates the patient could not read all letters on the largest line of the LCVA chart."
+      },
+      {
+        "segmentId": 13,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Concerning demographics, the sample was generally middle-class and financially secure."
+      },
+      {
+        "segmentId": 14,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "For the 20 patients willing to answer financial questions, none disagreed with the statements “I have enough to pay my household bills” and “I have enough to pay for household repairs or help needed in the house”; only 4 disagreed with “I can afford to buy what I want”; 6 agreed with “I cannot afford to do things I would enjoy”."
+      },
+      {
+        "segmentId": 15,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Regarding highest education level, 7 had a university qualification, 7 another tertiary qualification (e.g., certificate or apprenticeship), 5 secondary school and 2 primary school."
+      },
+      {
+        "segmentId": 16,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Eighteen patients resided in their own house (8 still with a spouse), and 3 in assisted accommodation (e.g., nursing home)."
+      },
+      {
+        "segmentId": 17,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "All reported regular contact and support from others (e.g., spouse, adult children, grandchildren, carers)."
+      },
+      {
+        "segmentId": 18,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Three participants were still driving."
+      },
+      {
+        "segmentId": 19,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Most patients were tested across three sessions, lasting up to 2 hours each."
+      },
+      {
+        "segmentId": 20,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "They were not paid, beyond reimbursement of travel to the university."
+      },
+      {
+        "segmentId": 21,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "The research was conducted in accordance with the Declaration of Helsinki."
+      },
+      {
+        "segmentId": 22,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Ethics approval was obtained from the Human Research Ethics Committees of Australian Capital Territory (ACT) Health (protocol ETH.10.13.291) and Australian National University (protocol 2013/386)."
+      },
+      {
+        "segmentId": 23,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Participants' written consent was obtained, following explanation of the study and possible consequences; this included specific consent for the qualitative interviews to be audio recorded, and for publication of de-identified quotes."
+      },
+      {
+        "segmentId": 24,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Acuity, and criteria for mild, moderate and severe vision loss categories"
+      },
+      {
+        "segmentId": 25,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Best Corrected Visual Acuity (BCVA) was measured by a qualified orthoptist using a retro-illuminated LogMAR chart mounted on a stand conforming to the ETDRS standard format [25]."
+      },
+      {
+        "segmentId": 26,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "Vision loss categories were defined using BCVA cut-off values from the International Statistical Classification of Diseases and Related Health Problems 10th Revision [26]."
+      },
+      {
+        "segmentId": 27,
+        "labelIds": {
+          "move-2": [
+            "M2-S5"
+          ]
+        },
+        "segmentText": "Mild vision loss refers to BCVA poorer than 6/6 (normal vision), down to 6/18."
+      },
+      {
+        "segmentId": 28,
+        "labelIds": {
+          "move-2": [
+            "M2-S5"
+          ]
+        },
+        "segmentText": "Moderate refers to BCVA poorer than 6/18, down to 6/60."
+      },
+      {
+        "segmentId": 29,
+        "labelIds": {
+          "move-2": [
+            "M2-S5"
+          ]
+        },
+        "segmentText": "Severe refers to BCVA poorer than 6/60."
+      },
+      {
+        "segmentId": 30,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "To give concrete interpretation to the acuity values, in Australia, a standard driving licence requires BCVA better than 6/12, and 6/60 is legal blindness."
+      },
+      {
+        "segmentId": 31,
+        "labelIds": {
+          "move-3": [
+            "M3-S1"
+          ]
+        },
+        "segmentText": "Patients were ranked (Table 1) and grouped based on best-eye visual acuity."
+      },
+      {
+        "segmentId": 32,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "This was on the grounds that AMD can affect the two eyes to different extents (in our sample, correlation between acuity in the two eyes was only r = .28), and it is functional acuity in the best eye which is likely to be the primary determiner of how well the patient can see faces in everyday life."
+      },
+      {
+        "segmentId": 33,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "This is because the brain preferentially attends to input from the eye providing the higher-quality input and tends to ignore input from an eye providing lower-resolution input; see evidence from amblyopia [27], or after laser surgery where the two eyes are given different corrections for close and far viewing [28]."
+      },
+      {
+        "segmentId": 34,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "S4 File provides: detailed information about both eyes (including BCVA, low contrast visual acuity LCVA, AMD type and stage); details of full vision assessments; and evidence that best-eye BCVA was indeed the most appropriate measure on which to rank patients' everyday vision ability."
+      },
+      {
+        "segmentId": 35,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Quantitative questionnaires: Everyday visual function, and psychological wellbeing"
+      },
+      {
+        "segmentId": 36,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "Overall level of everyday visual function was assessed using the National Eye Institute Visual Functioning Questionnaire (NEI-VFQ-25; Interviewer Administered Format plus appendix [21])."
+      },
+      {
+        "segmentId": 37,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "State (i.e., current) level of depression and anxiety were assessed using scales validated for elderly participants: the Geriatric Depression Scale-15; GDS-15 [29], and the Geriatric Anxiety Inventory; GAI [30]."
+      },
+      {
+        "segmentId": 38,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "AMD-related change in quality of life was assessed using the Macular Degeneration Quality of Life Questionnaire; MacDQoL [10], this instrument uses patients' ratings across multiple domains (e.g., ability to engage in hobbies, household tasks, travel outside the house, shopping, perform self-care) of how their life would change if they did not have AMD (but everything else in their life remained the same) multiplied by their rating of the importance of that domain to them."
+      },
+      {
+        "segmentId": 39,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "All questionnaires were administered verbally."
+      },
+      {
+        "segmentId": 40,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Qualitative interviews"
+      },
+      {
+        "segmentId": 41,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Interviews were one-on-one."
+      },
+      {
+        "segmentId": 42,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "They were conducted at the ANU, the patient's place of residence, or (in a few cases) on the telephone."
+      },
+      {
+        "segmentId": 43,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Each patient took part in one, or both, of two interviews, each lasting 30–45 minutes."
+      },
+      {
+        "segmentId": 44,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "To explore the range of patient experiences, Interview 1 (all 21 patients) was semi-structured and open ended."
+      },
+      {
+        "segmentId": 45,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "The initial questions asked directly of all patients are listed in S5 File."
+      },
+      {
+        "segmentId": 46,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "S6 File gives examples of participants’ very different responses to a given initial question, and the corresponding variation in follow-up questions."
+      },
+      {
+        "segmentId": 47,
+        "labelIds": {
+          "move-2": [
+            "M2-S5"
+          ]
+        },
+        "segmentText": "Topics addressed were those described in the Introduction."
+      },
+      {
+        "segmentId": 48,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Interview 2 (19 patients, see Table 1) was primarily concerned with obtaining patient feedback on material for potential inclusion in our Faces and Social Life in AMD Information Sheet."
+      },
+      {
+        "segmentId": 49,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "We drafted a list of possible facts and statements, based on findings after testing most patients on Interview 1."
+      },
+      {
+        "segmentId": 50,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "We then asked patients in Interview 2 whether they did or did not endorse each fact/statement as useful to include in the Information Sheet, and to provide comments as needed (e.g., where they thought clarification or qualification was needed)."
+      },
+      {
+        "segmentId": 51,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "In some cases, Interview 2 also revealed additional patient experiences, and/or included additional follow-up and clarification questions arising from their Interview 1 responses."
+      },
+      {
+        "segmentId": 52,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Time delay between Interviews 1 and 2 ranged from same-day testing up to 2 years; vision assessment was repeated for the 4 patients with longer than 6 months delay (with none having moved to a more severe vision loss category across the delay; see Table A S4 File)."
+      },
+      {
+        "segmentId": 53,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Interview data coding"
+      },
+      {
+        "segmentId": 54,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "Interviews were transcribed verbatim, combined across Interviews 1 and 2, and entered into NVivo software (QSR International Pty Ltd, Version 10, 2015) to assist with data collation."
+      },
+      {
+        "segmentId": 55,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Patient experiences from the transcripts were coded into themes [31], using a mix of a bottom-up (inductive) and top-down (theoretical) approaches."
+      },
+      {
+        "segmentId": 56,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "For bottom-up analysis, three authors independently read 6 interviews (3 from Interview 1 and 3 from Interview 2) from patients spread across the three AMD severity levels, and extracted emergent themes relevant to the present research questions (i.e., content related to face perception and/or its effect on social interactions and quality of life); coding strategies between authors were reviewed, and themes chosen were based on consensus negotiation [32]."
+      },
+      {
+        "segmentId": 57,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Themes were also redefined (e.g., two sub-themes combined), and additional themes were developed, in a top-down manner, to ensure adequate coverage of all the specific topics we wished to address (e.g., emotion perception; technology preferences), and to allow comparison to previous findings in the literature (e.g., whether AMD patients experience the same types of identity-related social-interaction problems reported in prosopagnosia)."
+      },
+      {
+        "segmentId": 58,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "JL then coded the interview transcripts from each patient into the final themes, including whether the patient had experienced that type of phenomenon or not, together with the piece/s of quoted text relevant to that experience."
+      },
+      {
+        "segmentId": 59,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "EM cross-checked the coding, with discrepancies resolved via negotiation."
+      },
+      {
+        "segmentId": 60,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "In addition to the initial coding of full interview transcripts to themes, multiple text search queries were conducted for each theme to avoid missing any data."
+      }
+    ]
+  },
+  {
+    "filename": "annotated_PubMed_30598486.json",
+    "pmid": "30598486",
+    "articleTitle": "“Tell them you smoke, you’ll get more breaks”: a qualitative study of occupational and social contexts of young adult smoking in Scotland",
+    "data": [
+      {
+        "segmentId": 0,
+        "labelIds": {
+          "move-1": [
+            "M1-S3"
+          ]
+        },
+        "segmentText": "This paper presents the qualitative findings from a mixed-methods study involving (1) secondary analysis of the 2012–2015 annual Scottish Health Surveys (SHeS)4 examining smoking young adults aged 16–24 years old by sociodemographic factors and (2) qualitative interviews with purposively selected 2014–2015 survey respondents in 2016–2017."
+      },
+      {
+        "segmentId": 1,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "SHeS is Scotland’s most robust national data set on smoking.4 Purposive sampling of SHeS respondents aged 16–24 years old was undertaken to recruit participants who had consented to be recontacted for follow-up research."
+      },
+      {
+        "segmentId": 2,
+        "labelIds": {
+          "move-2": [
+            "M2-S7"
+          ]
+        },
+        "segmentText": "Preliminary analysis (SHeS data set, 2012–2015) of the 2012–2015 survey data showed that smoking prevalence varied by age (16% in those aged 16–19 years old vs 26% in those aged 20–24 years old) and economic activity, with those aged 20–24 years old in full-time education reporting the lowest smoking prevalence (20%), compared with 25% in the employed and 42% in the NEET (Not in Education, Employment, Training) categories."
+      },
+      {
+        "segmentId": 3,
+        "labelIds": {
+          "move-2": [
+            "M2-S5"
+          ]
+        },
+        "segmentText": "The sampling aimed to recruit a diverse sample with differing smoking and occupational histories using the following criteria: smoking status (ever-smoked), age at qualitative interview (20–24), gender and economic activity."
+      },
+      {
+        "segmentId": 4,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Invitation letters, information sheets and consent forms were sent to 85 eligible SHeS respondents."
+      },
+      {
+        "segmentId": 5,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Fifteen returned consent forms and were interviewed in December 2016–April 2017."
+      },
+      {
+        "segmentId": 6,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Only 13 individuals refused to be interviewed."
+      },
+      {
+        "segmentId": 7,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Nine invitations were returned as ‘no longer at this address’."
+      },
+      {
+        "segmentId": 8,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "In 48 cases there was no response to invitation letters and up to five calls and texts."
+      },
+      {
+        "segmentId": 9,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Participants received a £20 high street voucher."
+      },
+      {
+        "segmentId": 10,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "The interviews were conducted by two female experienced qualitative researchers in participants’ homes (interview guide in online supplementary file 1)."
+      },
+      {
+        "segmentId": 11,
+        "labelIds": {
+          "move-2": [
+            "M2-S2"
+          ]
+        },
+        "segmentText": "They were digitally recorded and lasted 1–2 hours."
+      },
+      {
+        "segmentId": 12,
+        "labelIds": {
+          "move-2": [
+            "M2-S5"
+          ]
+        },
+        "segmentText": "Interviews explored participants’ current smoking behaviour and history, occupational and social transitions (eg, leaving school, unemployment/employment, new social contexts/networks), and the perceived influence of these transitions and contexts on their smoking."
+      },
+      {
+        "segmentId": 13,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "The interview used two adapted versions of the ‘life grid’ (online supplementary file 2)."
+      },
+      {
+        "segmentId": 14,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "Versions of the life grid have been used in qualitative studies of smoking to collect retrospective smoking histories30 and current smoking behaviour across the course of a day.31 32 The life grid recorded structured data on a timeline (before 16 years and each subsequent year) of the participant’s work/education, social and smoking history."
+      },
+      {
+        "segmentId": 15,
+        "labelIds": {
+          "move-2": [
+            "M2-S2"
+          ]
+        },
+        "segmentText": "Key changes and transitions were recorded for each year."
+      },
+      {
+        "segmentId": 16,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "The day grid recorded participants’ daily routines and smoking behaviour for each hour of a typical and atypical (eg, weekend) day."
+      },
+      {
+        "segmentId": 17,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "The grids were completed as a joint endeavour between the interviewer and the participant."
+      },
+      {
+        "segmentId": 18,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "They helped build rapport and were often returned to during the interview, allowing the interviewer and the participant to reflexively refocus and/or elaborate on themes."
+      },
+      {
+        "segmentId": 19,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "The interviews were transcribed and entered into NVivo V.10 to facilitate data management."
+      },
+      {
+        "segmentId": 20,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "The transcripts were read in conjunction with the grids to contextualise smoking behaviour and trajectories."
+      },
+      {
+        "segmentId": 21,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Data were analysed thematically, informed by Braun and Clarke’s33 phases of thematic analysis."
+      },
+      {
+        "segmentId": 22,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "The initial analysis involved familiarisation; transcripts were read and reread by the coauthors and emergent themes discussed."
+      },
+      {
+        "segmentId": 23,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Codes were systematically compared to identify cross-cutting themes and highlight common experiences, as well as differing views."
+      },
+      {
+        "segmentId": 24,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "The coding framework was further refined into key themes."
+      },
+      {
+        "segmentId": 25,
+        "labelIds": {
+          "move-2": [
+            "M2-S6"
+          ]
+        },
+        "segmentText": "While we cannot say that data saturation was reached, given the diverse sample, the participants did discuss similar experiences and their accounts included several overlapping themes."
+      },
+      {
+        "segmentId": 26,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Where quotations are used in the Results section, participants are identified by a pseudonym, age in years and smoking status."
+      },
+      {
+        "segmentId": 27,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Patient and public involvement"
+      },
+      {
+        "segmentId": 28,
+        "labelIds": {
+          "move-2": [
+            "M2-S2"
+          ]
+        },
+        "segmentText": "No patient or public were involved."
+      }
+    ]
+  },
+  {
+    "filename": "annotated_PubMed_34887284.json",
+    "pmid": "34887284",
+    "articleTitle": "Qualitative study of GPs’ views and experiences of population-based preconception expanded carrier screening in the Netherlands: bioethical perspectives",
+    "data": [
+      {
+        "segmentId": 0,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "In the Netherlands, the PECS test and pretest counselling was developed by van Langen and colleagues at the University Medical Centre Groningen (UMCG) in 2016, as part of a pilot study.7 8 11 16"
+      },
+      {
+        "segmentId": 1,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "They have trained GPs in non-directive pretest counselling."
+      },
+      {
+        "segmentId": 2,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "The GPs do not perform post-test counselling but refers couples to clinical geneticists."
+      },
+      {
+        "segmentId": 3,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "The test is not covered by insurance for parents with normal risk, and it costs €950 per couple."
+      },
+      {
+        "segmentId": 4,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "This charge covers the cost of a DNA-lab test performed at UMCG."
+      },
+      {
+        "segmentId": 5,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "The test currently includes 70 serious early onset autosomal recessive genetic conditions."
+      },
+      {
+        "segmentId": 6,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "Previous carrier screening tests have often targeted fewer genetic conditions, been offered to specific high-risk groups or been offered as commercial tests outside of the primary care system.3 17"
+      },
+      {
+        "segmentId": 7,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "Internationally, much genetic carrier screening is offered in early pregnancy.18–20"
+      },
+      {
+        "segmentId": 8,
+        "labelIds": {
+          "move-1": [
+            "M1-S3"
+          ]
+        },
+        "segmentText": "However, this is not the case in this study, since the focus is only on a test that is taken before conception."
+      },
+      {
+        "segmentId": 9,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Data collection and analysis The study comprised seven semistructured interviews with GPs."
+      },
+      {
+        "segmentId": 10,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Interviewees were recruited through the UMCG and the Northern GPs’ Association in the Netherlands."
+      },
+      {
+        "segmentId": 11,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "A letter describing the project was sent out to GPs in which interested GPs were asked to contact the research team."
+      },
+      {
+        "segmentId": 12,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Inclusion criteria were working as a GP and willing to share their professional views and reflections on the test."
+      },
+      {
+        "segmentId": 13,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Both GPs who offered the screening and those who only referred couples for it were interviewed."
+      },
+      {
+        "segmentId": 14,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "The majority of GPs were situated in rural areas."
+      },
+      {
+        "segmentId": 15,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Interviews were conducted by the second author, either in person (September 2019 to February 2020) or via phone (March to May 2020)."
+      },
+      {
+        "segmentId": 16,
+        "labelIds": {
+          "move-3": [
+            "M3-S1"
+          ]
+        },
+        "segmentText": "The in-depth interviews lasted around 1 hour were recorded, transcribed verbatim and pseudonymised."
+      },
+      {
+        "segmentId": 17,
+        "labelIds": {
+          "move-3": [
+            "M3-S1"
+          ]
+        },
+        "segmentText": "Which GP belonged to which group will not be stated in the results in order to ensure anonymity."
+      },
+      {
+        "segmentId": 18,
+        "labelIds": {
+          "move-2": [
+            "M2-S5"
+          ]
+        },
+        "segmentText": "The study examined the GPs’ views and/or experiences on the practice of PECS and the interview guide covered: first impression of the test, implications of the test, experiences with patients and how the test could be improved (online supplemental file)."
+      },
+      {
+        "segmentId": 19,
+        "labelIds": {
+          "move-1": [
+            "M1-S6"
+          ]
+        },
+        "segmentText": "10.1136/bmjopen-2021-056869.supp1 Supplementary data The qualitative semistructured design allowed interviewees to expand on issues that they saw as important."
+      },
+      {
+        "segmentId": 20,
+        "labelIds": {
+          "move-2": [
+            "M2-S2"
+          ]
+        },
+        "segmentText": "The interviews were detailed and rich in content."
+      },
+      {
+        "segmentId": 21,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "They offered what, in qualitative research, is called ‘thick’ descriptions, which allow us to consider contextual detail as part of the interpretations and analysis of meaning.21"
+      },
+      {
+        "segmentId": 22,
+        "labelIds": {
+          "move-2": [
+            "M2-S6"
+          ]
+        },
+        "segmentText": "The aspect of saturation is essential,22–24 the later interviews did not bring out new themes, but added to themes already present.25 26"
+      },
+      {
+        "segmentId": 23,
+        "labelIds": {
+          "move-2": [
+            "M2-S6"
+          ]
+        },
+        "segmentText": "For this reason, the number of interviewees was deemed sufficient."
+      },
+      {
+        "segmentId": 24,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Thematic analysis of the data was conducted.27"
+      },
+      {
+        "segmentId": 25,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "AS, SMJ and KZ read all interviews independently of each other and carried out an initial coding."
+      },
+      {
+        "segmentId": 26,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "AS, SMJ and KZ carried out independent coding of the data, independently identified subthemes based on this coding and jointly clustered subthemes into broader patterns of meaning, that is, themes."
+      },
+      {
+        "segmentId": 27,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "NVivo, software designed to analyse qualitative data, was used."
+      },
+      {
+        "segmentId": 28,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "This process, guided by the aim of the study, can be described as the researchers engaging with and interrogating the data, back and forth, and developing themes."
+      },
+      {
+        "segmentId": 29,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "The Standards for Reporting Qualitative Research (SRQR) has been followed.28"
+      },
+      {
+        "segmentId": 30,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Ethics approval statement"
+      },
+      {
+        "segmentId": 31,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "The interviewees were informed by letter and orally about the project."
+      },
+      {
+        "segmentId": 32,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Participation was voluntary and participants gave written, informed consent prior to the interview."
+      },
+      {
+        "segmentId": 33,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "This article is the result of a Dutch-Swedish collaboration to examine patients’ views and experiences of PECS and GPs' work experiences and views of PECS."
+      },
+      {
+        "segmentId": 34,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "Empirical bioethics"
+      },
+      {
+        "segmentId": 35,
+        "labelIds": {
+          "move-1": [
+            "M1-S3"
+          ]
+        },
+        "segmentText": "The study’s methodological framework is empirical bioethics,29–31 a growing field of research.32"
+      },
+      {
+        "segmentId": 36,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Empirical bioethics is a heterogeneous field that combines empirical research—commonly qualitative empirical research—with an ethical or philosophical analysis.31 33"
+      },
+      {
+        "segmentId": 37,
+        "labelIds": {
+          "move-1": [
+            "M1-S3"
+          ]
+        },
+        "segmentText": "Just as other qualitative research methods, it involves a detailed analysis of descriptions and views given by interviewees on a particular subject and a focus on complexities."
+      },
+      {
+        "segmentId": 38,
+        "labelIds": {
+          "move-1": [
+            "M1-S6"
+          ]
+        },
+        "segmentText": "However, the particular value of empirical bioethics rests with the way the qualitative analysis is combined with, for example, conceptual analysis and philosophical and ethical discussion.29 31 33"
+      },
+      {
+        "segmentId": 39,
+        "labelIds": {
+          "move-1": [
+            "M1-S6"
+          ]
+        },
+        "segmentText": "The combination of qualitative analyses with philosophical or ethical analyses has proven to be of much value: it can refine an ethical discussion within a medical practice through its close attention to concerns that arise within this practice, without losing sight of the specific context, while ensuring that theoretical philosophical and/or ethical discussions contribute to concerns within the concrete medical practice."
+      },
+      {
+        "segmentId": 40,
+        "labelIds": {
+          "move-1": [
+            "M1-S6"
+          ]
+        },
+        "segmentText": "In this way, such combined analyses can contribute to the improvement of care."
+      },
+      {
+        "segmentId": 41,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "In the present study, we identify themes that include concerns held by the interviewees, engage with the results of the thematic analysis, identify norms and values, contextualise the identified themes against previous relevant analyses and discuss the empirical findings in relation to previously identified ethical concerns and discussions (here called an empirical bioethical discussion)."
+      },
+      {
+        "segmentId": 42,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Patient and public involvement No patients or members of the public were involved in the study."
+      }
+    ]
+  },
+  {
+    "filename": "annotated_PubMed_29399235.json",
+    "pmid": "29399235",
+    "articleTitle": "Challenges of Obtaining Informed Consent in Emergency Ward: A Qualitative Study in One Iranian Hospital",
+    "data": [
+      {
+        "segmentId": 0,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "T"
+      },
+      {
+        "segmentId": 1,
+        "labelIds": {
+          "move-1": [
+            "M1-S3"
+          ]
+        },
+        "segmentText": "he current study employed a qualitative study to access a deeper understanding of the informed consent processes in the emergency ward."
+      },
+      {
+        "segmentId": 2,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "According to Krippendorff (1980), as cited in Elo and Kyngäs, qualitative content analysis is a suitable method to derive replicable and valid inferences affected by a deep understanding of the context."
+      },
+      {
+        "segmentId": 3,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "It creates new knowledge and insight, a representation of facts and a practical guide to performance [25]."
+      },
+      {
+        "segmentId": 4,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "Kyngäs and Vanhanen (1999) believed that “The purpose of content analysis is to achieve a condensed and broad description of the phenomenon, and the outcomes of the analysis are concepts or categories describing the phenomenon” [26]."
+      },
+      {
+        "segmentId": 5,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "2.2 Research Field and Participants"
+      },
+      {
+        "segmentId": 6,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "In the present study, the research field was one of the emergency wards of educational and public hospitals in Iran."
+      },
+      {
+        "segmentId": 7,
+        "labelIds": {
+          "move-1": [
+            "M1-S6"
+          ]
+        },
+        "segmentText": "Given that the hospital is one of the main reference centers for emergencies and referred patients have various qualities from the economic, social, and cultural characteristics, it appears to be a suitable field for the present study."
+      },
+      {
+        "segmentId": 8,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "In this ward there were forty-four fixed beds for hospitalization which could be extended to up to thirty more beds in cases of necessity and more demand."
+      },
+      {
+        "segmentId": 9,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "On average 3618 patients were admitted to the emergency department monthly."
+      },
+      {
+        "segmentId": 10,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "Each work shift was run by 25 nurses, 3 medical interns, 6 emergency residents, and one emergency specialist and three secretaries."
+      },
+      {
+        "segmentId": 11,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "In the emergency ward of this study, the patients were classified in the triage based on the ESI (Emergency Severity Index) criteria."
+      },
+      {
+        "segmentId": 12,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Then patients in level one (patients require immediate life - saving intervention), were immediately transferred from triage to a CPR (Cardiopulmonary Resuscitation) unit."
+      },
+      {
+        "segmentId": 13,
+        "labelIds": {
+          "move-1": [
+            "M1-S6"
+          ]
+        },
+        "segmentText": "It should be noted that according to article 158 of Islamic Penal Act, obtaining informed consent in emergency conditions is not required [7], as a result, the present study does not cover the process in the CPR unit."
+      },
+      {
+        "segmentId": 14,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "The participants and informants of the study were purposely selected."
+      },
+      {
+        "segmentId": 15,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "They were nurses and physicians working in the emergency ward, patients and their attendants (most of them being patients' family members or relatives), and those who presented in the emergency ward and were involved in the process of obtaining informed consent."
+      },
+      {
+        "segmentId": 16,
+        "labelIds": {
+          "move-2": [
+            "M2-S5"
+          ]
+        },
+        "segmentText": "It should be noted that some of the cultural characteristics and specific rules of the research field were considered as factors influencing the process of obtaining consent."
+      },
+      {
+        "segmentId": 17,
+        "labelIds": {
+          "move-2": [
+            "M2-S5"
+          ]
+        },
+        "segmentText": "For example, one of the features related to Iranian culture and the context of research field was the permanent presence of the patient's attendance on the patient's bedside, as it also affected the process of obtaining informed consent."
+      },
+      {
+        "segmentId": 18,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "In Iranian culture, there is a close family relationship between family members and most of the personal decisions are shared with families, especially in critical conditions when a member is ill."
+      },
+      {
+        "segmentId": 19,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "In such conditions, the immediate members of the family do their best to make the best decisions and take care of the affected family member."
+      },
+      {
+        "segmentId": 20,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "In hospitals, particularly in emergency wards, there is generally one family member accompanying patient and he accompanies him until the end of the treatment process, providing primary care for the patient."
+      },
+      {
+        "segmentId": 21,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "After discharge, family has also the responsibility for home care."
+      },
+      {
+        "segmentId": 22,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Therefore, the patient attendant’s roles are highlighted in Iranian hospitals."
+      },
+      {
+        "segmentId": 23,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "Legally, according to the Iranian laws, in special conditions, informed consent can be obtained from his legal guardians, authorities or representatives [7]."
+      },
+      {
+        "segmentId": 24,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "As a result, by observing the mentioned conditions, obtaining informed consent from the patients' attendance for the purposes of medical procedures finds a legal format."
+      },
+      {
+        "segmentId": 25,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "In addition to general laws, especial emphasis was given to the informed consent prior to specific invasive procedures in the emergency ward where the study was carried out."
+      },
+      {
+        "segmentId": 26,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "In one of the guidelines within the emergency ward, it is emphasized that informed consent is mandatory about invasive procedures."
+      },
+      {
+        "segmentId": 27,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "In such cases, implied consent does not suffice."
+      },
+      {
+        "segmentId": 28,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "In other words, implied consent was acceptable in routine cases such as taking medical history or vital signs."
+      },
+      {
+        "segmentId": 29,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "The following text refers to this guideline: Dear Physicians and Nurses Subject: Informed consent from the patients Informed consent is carried out by physicians and nurses and each has duties as follows: Physician: The physician conducting therapeutic or diagnostic non-emergency procedures is required to provide information to the patient about the necessity and benefits and possible side effects and alternative therapies of procedures."
+      },
+      {
+        "segmentId": 30,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Then he gets the patient or his legal guardians, authorities or representatives to sign and fingerprint the informed consent and then make sure that the signature is present in the form, (In case the patient is alert and he can analyze things, the Informed consent could be obtained from him)."
+      },
+      {
+        "segmentId": 31,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Nurse: The nurse is responsible for controlling the completion of the form for the patient before doing any procedures and make sure that the consent form is existent in each patient's profile."
+      },
+      {
+        "segmentId": 32,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Note: In case of emergency based on the physician’s opinion, if invasive medical procedure is seen as emergent with delay in it creating some harms for the patient, the doctor can treat the patient with a thorough description of the patient's situation and a mention of emergency reasons of doing medical procedure."
+      },
+      {
+        "segmentId": 33,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "List of invasive procedures in the emergency ward which require the completion of informed consent:"
+      },
+      {
+        "segmentId": 34,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "2.3 Data Collection"
+      },
+      {
+        "segmentId": 35,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "In order to collect data, field work and participant observation were carried out for 515 hours from June 2014 to March 2016 in the emergency ward."
+      },
+      {
+        "segmentId": 36,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "Given (2008) states that: “Participant observation is a method of data collection in which the researcher takes part in everyday activities related to an area of social life in order to study an aspect of that life through the observation of events in their natural contexts [27].”"
+      },
+      {
+        "segmentId": 37,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "According to Carspecken's recommendations, the researcher focused on the voice, vocal tone, posture, body movements, gestures, facial expression in her participant observations [28]."
+      },
+      {
+        "segmentId": 38,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "In the study, the question of participant observation was “how is the process of informed consent done in the emergency ward?”"
+      },
+      {
+        "segmentId": 39,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Then, based on the events and observed behaviors it was discussed with the people involved in order to clarify the underlying experiences, beliefs, values, and feelings."
+      },
+      {
+        "segmentId": 40,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "The duration of participant observations lasted 2-9 hours in different shifts and handwritten notes were taken by the researcher during observations."
+      },
+      {
+        "segmentId": 41,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Conversations during observations were another source of data that were conducted personally or in groups."
+      },
+      {
+        "segmentId": 42,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Also, face-to-face semi-structured interviews averaging 45 minutes were conducted."
+      },
+      {
+        "segmentId": 43,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "The time and place of interviews were selected by the participants themselves."
+      },
+      {
+        "segmentId": 44,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "Also, interviews were audio recorded with participants’ permission."
+      },
+      {
+        "segmentId": 45,
+        "labelIds": {
+          "move-2": [
+            "M2-S2"
+          ]
+        },
+        "segmentText": "In this way, the study experienced 14 semi-structured interviews with the patients and their attendants, 11 with physicians, 11 with nurses."
+      },
+      {
+        "segmentId": 46,
+        "labelIds": {
+          "move-3": [
+            "M3-S1"
+          ]
+        },
+        "segmentText": "Immediately after each section of field work, the researcher transcribed all of their notes."
+      },
+      {
+        "segmentId": 47,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "The present study's interview questions were designed based on Carspecken’s protocol (1996)."
+      },
+      {
+        "segmentId": 48,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "The protocol has four sections: Topic domain, lead-off question, covert category and probable follow up questions."
+      },
+      {
+        "segmentId": 49,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "Based on the protocol, the general range of interview topics is determined in the topic domain, then lead-off questions are designed to open up a topic domain."
+      },
+      {
+        "segmentId": 50,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "Carspecken believes that the best lead-off question is the concrete question about an event that the participant is some part of it and the researcher is observing it."
+      },
+      {
+        "segmentId": 51,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Then, while the participant is describing the event, the researcher is trying to extract by asking suitable questions the background beliefs, values, and involved feelings on the event, these are termed as covert category."
+      },
+      {
+        "segmentId": 52,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "All in all, it's a good idea that the researcher has probable follow-up questions."
+      },
+      {
+        "segmentId": 53,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "Carspecken advises about the cases when interview time is very far from observation or in cases in which the researcher wants to just interview with the participant, it is better that the lead-off questions be about the events which happen routinely within the context or use of some descriptive (typical day) question such as “talk about your day at work” to be implemented [28]."
+      },
+      {
+        "segmentId": 54,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "According to the Carspecken's protocol, the interview questions of the present study are designed in Table 1."
+      },
+      {
+        "segmentId": 55,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "In order to meet trustworthiness of participant observation, thick description was used."
+      },
+      {
+        "segmentId": 56,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "It was done using a detailed description of observations and careful recording of time and context."
+      },
+      {
+        "segmentId": 57,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "The purpose was to describe the research field completely and explore the details of health care and patient's interactions and communications."
+      },
+      {
+        "segmentId": 58,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "Furthermore, facial expressions, participants' postures and movements were described in great detail."
+      },
+      {
+        "segmentId": 59,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "Denzin (1989), defines thick description as: “deep, dense, detailed accounts of problematic experiences..."
+      },
+      {
+        "segmentId": 60,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "It presents details, context, emotions and the web of social relationships that join individuals to one another [29].”"
+      },
+      {
+        "segmentId": 61,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "Thick description is a rich and wide collection of details about the methodology and context which make judgments possible about the fitness of research context in relation to other contexts [30, 31]."
+      },
+      {
+        "segmentId": 62,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "Moreover, prolonged engagement was considered as supportive methods for the trustworthiness of the study."
+      },
+      {
+        "segmentId": 63,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "According to the criteria introduced by Lincoln and Guba in 1994 as cited in Kawulich, if a researcher can prove that he has spent a considerable portion of time in the studied setting, his findings are considered to have an upper level of trustworthiness [32]."
+      },
+      {
+        "segmentId": 64,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "Furthermore, the researcher checked the interviews repeatedly and compared them with the observations."
+      },
+      {
+        "segmentId": 65,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "In this way, the agreement between results from recorded observations and interviews were reviewed and researcher's interpretations emerged."
+      },
+      {
+        "segmentId": 66,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "Also, in order to challenge her understanding, she used member check and peer check."
+      },
+      {
+        "segmentId": 67,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "Therefore, two experienced researchers verified results of the analysis, and a summary of the transcripts was shared with selected participants."
+      },
+      {
+        "segmentId": 68,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "2.4 Ethical Considerations"
+      },
+      {
+        "segmentId": 69,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "The researcher, after receiving written permission from Ethics Committee of Tehran University of Medical Sciences, started to collect data."
+      },
+      {
+        "segmentId": 70,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "At first she was introduced to the educational hospital's supervisor through which was relayed to the head nurse of the emergency ward."
+      },
+      {
+        "segmentId": 71,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "The purpose of the study and data gathering strategies was described for the head nurse."
+      },
+      {
+        "segmentId": 72,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Then the participation policy in the research field was explained and required coordination was done."
+      },
+      {
+        "segmentId": 73,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "At the same time, some probable questions and uncertainties of the participants were answered."
+      },
+      {
+        "segmentId": 74,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Throughout the study a relationship based on trust and honesty was the aim of the researcher right from the initiation of the study."
+      },
+      {
+        "segmentId": 75,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "She assured them that secrecy as well as confidentiality of the information from data collection up to her publication would be kept."
+      },
+      {
+        "segmentId": 76,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Also, in order to maintain ethical considerations, interviews were recorded after receiving consent from participants and the time and place of interviews were decided by the participants."
+      },
+      {
+        "segmentId": 77,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "2.5 Data Analysis"
+      },
+      {
+        "segmentId": 78,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Data analysis was done through conventional qualitative content analysis."
+      },
+      {
+        "segmentId": 79,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "In this approach, categories and themes were extracted directly from data."
+      },
+      {
+        "segmentId": 80,
+        "labelIds": {
+          "move-1": [
+            "M1-S1"
+          ]
+        },
+        "segmentText": "According to the framework of Elo and Kyngäs the main process includes three basic phases of preparation, organization and reporting."
+      },
+      {
+        "segmentId": 81,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "The purpose of the first phase is understanding and proximity to the content of the text."
+      },
+      {
+        "segmentId": 82,
+        "labelIds": {
+          "move-3": [
+            "M3-S1"
+          ]
+        },
+        "segmentText": "For this purpose, interviews, observations and documentations were read several times to gain a thorough perspective and a comprehensive overview."
+      },
+      {
+        "segmentId": 83,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "In the second phase of the analysis, decoding of the text was done."
+      },
+      {
+        "segmentId": 84,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Then sub-categories of similar contents were grouped together and, finally, based on the researcher's idea, the main categories were abstracted from generic categories [25]."
+      }
+    ]
+  },
+  {
+    "filename": "annotated_PubMed_38154907.json",
+    "pmid": "38154907",
+    "articleTitle": "Medical students impacted by discrimination: a qualitative study into their experiences of belonging and support systems at medical schools in the UK",
+    "data": [
+      {
+        "segmentId": 0,
+        "labelIds": {
+          "move-1": [
+            "M1-S6"
+          ]
+        },
+        "segmentText": "Given the complexity and sensitivity of discrimination in medical school, we chose to conduct semi-structured interviews to explore the thoughts, beliefs and experiences of participants."
+      },
+      {
+        "segmentId": 1,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "We created 12 questions to form the basis of our semi-structured interviews covering various themes of belonging, networks, support systems and experiences of discrimination using findings from our literature review."
+      },
+      {
+        "segmentId": 2,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Each participant was interviewed individually (online supplemental appendix 1)."
+      },
+      {
+        "segmentId": 3,
+        "labelIds": {
+          "move-1": [
+            "M1-S3"
+          ]
+        },
+        "segmentText": "We used a constructivist paradigm16 using an interpretative description approach.17 This enabled us to fully explore each participant’s subjective experiences and understand the influences behind these, in order to develop practical recommendations to improve belonging and support systems at medical school."
+      },
+      {
+        "segmentId": 4,
+        "labelIds": {
+          "move-1": [
+            "M1-S4"
+          ]
+        },
+        "segmentText": "Data were collected between October and December 2022."
+      },
+      {
+        "segmentId": 5,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "All participants were emailed welfare debriefing information specific to their institution and SK was the assigned point of contact in the event of serious concern."
+      },
+      {
+        "segmentId": 6,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "10.1136/bmjopen-2023-078314.supp1 Supplementary data"
+      },
+      {
+        "segmentId": 7,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Sample and recruitment"
+      },
+      {
+        "segmentId": 8,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Medical students who self-identified as having been impacted by discrimination were eligible to take part in the study."
+      },
+      {
+        "segmentId": 9,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Students who had just undertaken an intercalated BSc were excluded from the study, as they may be affiliated with a department external to the medical school and not all medical students may have the opportunity to intercalate."
+      },
+      {
+        "segmentId": 10,
+        "labelIds": {
+          "move-1": [
+            "M1-S6"
+          ]
+        },
+        "segmentText": "Participants self-identified as having been impacted by discrimination using an existing, broadened WP definition.18 This allowed us to collect a diverse multitude of student experiences, which may be currently underrepresented in existing literature and policies."
+      },
+      {
+        "segmentId": 11,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Our recruitment text provided some guidance through examples of discriminated groups including but not limited to: Those who identify as being otherly abled/having a disability/receiving Disabled Students' Allowance (DSA)."
+      },
+      {
+        "segmentId": 12,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Those who identify as an ethnic minority group."
+      },
+      {
+        "segmentId": 13,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Those who identify as lesbian, gay, bisexual, transgender, queer, questioning, intersex, or asexual (LGBTQIA+)."
+      },
+      {
+        "segmentId": 14,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "First-generation applicants to higher education."
+      },
+      {
+        "segmentId": 15,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Those previously looked after by a local authority."
+      },
+      {
+        "segmentId": 16,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Those who are themselves or have parents/guardians in receipt of means-tested benefits."
+      },
+      {
+        "segmentId": 17,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Those with household addresses in a participation of local areas (POLAR) classification 3 or 4 area."
+      },
+      {
+        "segmentId": 18,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Those with refugee status."
+      },
+      {
+        "segmentId": 19,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Young carers."
+      },
+      {
+        "segmentId": 20,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Students who belong to one of the priority engagement groups (includes students from Gypsy, Roma and Traveller communities and children in military families)."
+      },
+      {
+        "segmentId": 21,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Those who are estranged from both parents/legal guardians during their higher education."
+      },
+      {
+        "segmentId": 22,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "Mature students."
+      },
+      {
+        "segmentId": 23,
+        "labelIds": {
+          "other": [
+            "OTHER"
+          ]
+        },
+        "segmentText": "For the full recruitment text, see online supplemental appendix 2."
+      },
+      {
+        "segmentId": 24,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "We recruited through the host institution using email, newsletters and relevant social media platforms."
+      },
+      {
+        "segmentId": 25,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "Adverts were sent out through these platforms asking students to sign up."
+      },
+      {
+        "segmentId": 26,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "These students were then contacted by the research team to check eligibility and availability for an interview."
+      },
+      {
+        "segmentId": 27,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "In addition to fulfilling our recruitment criteria, participants were eligible to participate if they were available for an interview and provided consent to participate."
+      },
+      {
+        "segmentId": 28,
+        "labelIds": {
+          "move-2": [
+            "M2-S1"
+          ]
+        },
+        "segmentText": "We aimed to ensure breadth of experiences, maximising variability across year groups; for each university, we selected one student per year group."
+      },
+      {
+        "segmentId": 29,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "All participants were compensated for their time through £20 food vouchers."
+      },
+      {
+        "segmentId": 30,
+        "labelIds": {
+          "move-1": [
+            "M1-S5"
+          ]
+        },
+        "segmentText": "In total, we recruited 17 participants from all years of the medical school programmes across four UK-based medical schools using convenience sampling."
+      },
+      {
+        "segmentId": 31,
+        "labelIds": {
+          "move-2": [
+            "M2-S6"
+          ]
+        },
+        "segmentText": "This allowed us to achieve our study aims and ensure a breadth of experiences, exploring their experiences to conclude their sense of belonging and experience of support at medical school."
+      },
+      {
+        "segmentId": 32,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Procedure"
+      },
+      {
+        "segmentId": 33,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "After selection, each participant was invited to a 60-minute semi-structured interview."
+      },
+      {
+        "segmentId": 34,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Each interview was run by two co-investigators (HI, SA, CK, HG, NM and SD), with one leading and one supporting the interview (prompting additional questions to explore students’ experiences or in case of technical difficulties)."
+      },
+      {
+        "segmentId": 35,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Consent was gained prior to the interview through the submission of an online consent form and verbal consent to record the session was obtained prior to the start of each discussion."
+      },
+      {
+        "segmentId": 36,
+        "labelIds": {
+          "move-2": [
+            "M2-S6"
+          ]
+        },
+        "segmentText": "To avoid potential conflicts of interest, investigators only interviewed participants external to their own institutions."
+      },
+      {
+        "segmentId": 37,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Data analysis"
+      },
+      {
+        "segmentId": 38,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "After transcription, we anonymised data and followed a constructivist approach to qualitative thematic analysis."
+      },
+      {
+        "segmentId": 39,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "We analysed data inductively and followed Braun and Clarke’s16 six steps: familiarisation; data coding; generating initial themes; reviewing and developing themes; refining, defining and naming themes; and writing the report."
+      },
+      {
+        "segmentId": 40,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "We developed a code list, which all members of our team reviewed."
+      },
+      {
+        "segmentId": 41,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "At least one member of our team peer-reviewed each transcript to add depth to coding (HI, SA, CK, HG, NM and SD)."
+      },
+      {
+        "segmentId": 42,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "Throughout the analysis, we modified existing codes and created new codes through discussion."
+      },
+      {
+        "segmentId": 43,
+        "labelIds": {
+          "move-3": [
+            "M3-S2"
+          ]
+        },
+        "segmentText": "We then connected these codes to develop themes through team discussions."
+      },
+      {
+        "segmentId": 44,
+        "labelIds": {
+          "move-2": [
+            "M2-S4"
+          ]
+        },
+        "segmentText": "All data analyses were conducted using the Dedoose (V.9.0) software."
+      },
+      {
+        "segmentId": 45,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Patient and public involvement"
+      },
+      {
+        "segmentId": 46,
+        "labelIds": {
+          "move-2": [
+            "M2-S3"
+          ]
+        },
+        "segmentText": "Patients or the public were not involved in the design or conduct of this study."
+      },
+      {
+        "segmentId": 47,
+        "labelIds": {
+          "other": [
+            "HEADING"
+          ]
+        },
+        "segmentText": "Reflexivity"
+      },
+      {
+        "segmentId": 48,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "The research team comes from varying ethnically minoritised backgrounds and is predominantly female identifying, all with a strong interest in medical education."
+      },
+      {
+        "segmentId": 49,
+        "labelIds": {
+          "move-1": [
+            "M1-S2"
+          ]
+        },
+        "segmentText": "All student researchers identify as having been impacted by discrimination, thus leading the research team to explore this research project and have a strong aspiration to make positive recommendations for medical schools."
+      },
+      {
+        "segmentId": 50,
+        "labelIds": {
+          "move-3": [
+            "M3-S3"
+          ]
+        },
+        "segmentText": "Due to the nature of our study and personal experiences of discrimination, peer debriefing through online meetings were used to reflect and deepen our understanding of recounted experiences shared by study participants and provide support if sensitive topics arose."
+      }
+    ]
+  }
+]

@@ -909,32 +909,80 @@ if st.session_state.json_data is not None:
                             except Exception as e:
                                 st.warning(f"Error processing KWIC line: {e}")
                                 
-                        # Display as a DataFrame
+                        # Display as an HTML table to strictly enforce text alignment
                         kwic_df = pd.DataFrame(kwic_data)
                         
-                        st.dataframe(
-                            kwic_df,
-                            column_config={
-                                "left": st.column_config.TextColumn(
-                                    "Left Context",
-                                    width="large",
-                                ),
-                                "keyword": st.column_config.TextColumn(
-                                    "Keyword",
-                                    width="small"
-                                ),
-                                "right": st.column_config.TextColumn(
-                                    "Right Context",
-                                    width="large"
-                                ),
-                                "PMID": st.column_config.LinkColumn(
-                                    "Source (PMID)",
-                                    width="medium",
-                                    display_text=r".*\/(\d+)$"
-                                )
-                            },
-                            use_container_width=True
-                        )
+                        # Prepare data for HTML display
+                        kwic_data_display = []
+                        for row in kwic_data:
+                            display_row = {
+                                "Left Context": row["left"],
+                                "Keyword": row["keyword"],
+                                "Right Context": row["right"],
+                            }
+                            if row["PMID"].startswith("http"):
+                                pmid_num = row["PMID"].split("/")[-1]
+                                display_row["Source (PMID)"] = f'<a href="{row["PMID"]}" target="_blank" style="color: #0068c9; text-decoration: none;">{pmid_num}</a>'
+                            else:
+                                display_row["Source (PMID)"] = row["PMID"]
+                            kwic_data_display.append(display_row)
+                            
+                        display_df = pd.DataFrame(kwic_data_display)
+                        
+                        # Generate HTML
+                        html_table = display_df.to_html(escape=False, index=False, classes="kwic-table")
+                        
+                        st.markdown(f"""
+                        <style>
+                        .kwic-table {{
+                            width: 100%;
+                            border-collapse: collapse;
+                            font-size: 14px;
+                            font-family: sans-serif;
+                            margin-bottom: 20px;
+                        }}
+                        .kwic-table th {{
+                            background-color: #f0f2f6;
+                            padding: 10px;
+                            text-align: center !important;
+                            border-bottom: 2px solid #ccc;
+                            color: #31333F;
+                        }}
+                        .kwic-table td {{
+                            padding: 8px 10px;
+                            border-bottom: 1px solid #eee;
+                            vertical-align: middle;
+                        }}
+                        /* Left Context */
+                        .kwic-table td:nth-child(1) {{
+                            text-align: right !important;
+                            width: 40%;
+                        }}
+                        /* Keyword */
+                        .kwic-table td:nth-child(2) {{
+                            text-align: center !important;
+                            font-weight: bold;
+                            color: #d62728;
+                            white-space: nowrap;
+                        }}
+                        /* Right Context */
+                        .kwic-table td:nth-child(3) {{
+                            text-align: left !important;
+                            width: 40%;
+                        }}
+                        /* PMID */
+                        .kwic-table td:nth-child(4) {{
+                            text-align: center !important;
+                            white-space: nowrap;
+                        }}
+                        .kwic-table tr:hover {{
+                            background-color: #f9f9f9;
+                        }}
+                        </style>
+                        """, unsafe_allow_html=True)
+                        
+                        with st.container(height=500):
+                            st.markdown(html_table, unsafe_allow_html=True)
                         
                         csv = convert_df_to_csv(kwic_df)
                         st.download_button(
@@ -943,22 +991,6 @@ if st.session_state.json_data is not None:
                             file_name=f"kwic_{search_term}.csv",
                             mime="text/csv",
                             key="download_kwic_csv"
-                        )
-                        
-                        st.markdown(
-                            """
-                            <style>
-                            /* Target the 'left' column (often col 0) */
-                            div[data-testid="stDataFrame"] div[data-col="0"] {
-                                text-align: right;
-                            }
-                            /* Center the keyword column */
-                            div[data-testid="stDataFrame"] div[data-col="1"] {
-                                text-align: center;
-                                font-weight: bold;
-                            }
-                            </style>
-                            """, unsafe_allow_html=True
                         )
                         
                     else:

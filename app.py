@@ -887,46 +887,58 @@ if st.session_state.json_data is not None:
                     )
                     
                     if concordance_results:
-                        # Process results to add PMID
-                        kwic_data = []
+                        source_col_name = "Source"
+                        
+                        csv_data = []
+                        kwic_data_display = []
+                        
                         for res in concordance_results:
                             try:
                                 text_id = res['text_id'] # This is the index
                                 article = st.session_state.json_data[text_id]
-                                pmid = article.get('PMID', article.get('pmid', 'N/A'))
                                 
-                                pmid_link_url = "N/A"
+                                pmid = article.get('PMID', article.get('pmid', 'N/A'))
+                                doi = article.get('doi', article.get('DOI', 'N/A'))
+                                
+                                source_raw = "N/A"
+                                source_display = "N/A"
+                                
                                 if pmid != 'N/A' and str(pmid).isdigit():
                                     pmid_num = str(pmid)
-                                    pmid_link_url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid_num}"
+                                    source_raw = f"https://pubmed.ncbi.nlm.nih.gov/{pmid_num}"
+                                    source_display = f'<a href="{source_raw}" target="_blank" style="color: #0068c9; text-decoration: none;">{pmid_num}</a>'
+                                    source_col_name = "Source (PMID)"
+                                elif doi != 'N/A':
+                                    doi_str = str(doi)
+                                    source_raw = f"https://doi.org/{doi_str}"
+                                    source_display = f'<a href="{source_raw}" target="_blank" style="color: #0068c9; text-decoration: none;">{doi_str}</a>'
+                                    source_col_name = "Source (DOI)"
                                     
-                                kwic_data.append({
-                                    "left": res['left'],
-                                    "keyword": res['keyword'],
-                                    "right": res['right'],
-                                    "PMID": pmid_link_url # <-- Store the full URL
+                                csv_data.append({
+                                    "Left Context": res['left'],
+                                    "Keyword": res['keyword'],
+                                    "Right Context": res['right'],
+                                    "__source_raw": source_raw
                                 })
+                                
+                                kwic_data_display.append({
+                                    "Left Context": res['left'],
+                                    "Keyword": res['keyword'],
+                                    "Right Context": res['right'],
+                                    "__source_display": source_display
+                                })
+                                
                             except Exception as e:
                                 st.warning(f"Error processing KWIC line: {e}")
                                 
+                        # Finalize column names
+                        for row in csv_data:
+                            row[source_col_name] = row.pop("__source_raw")
+                        for row in kwic_data_display:
+                            row[source_col_name] = row.pop("__source_display")
+                                
                         # Display as an HTML table to strictly enforce text alignment
-                        kwic_df = pd.DataFrame(kwic_data)
-                        
-                        # Prepare data for HTML display
-                        kwic_data_display = []
-                        for row in kwic_data:
-                            display_row = {
-                                "Left Context": row["left"],
-                                "Keyword": row["keyword"],
-                                "Right Context": row["right"],
-                            }
-                            if row["PMID"].startswith("http"):
-                                pmid_num = row["PMID"].split("/")[-1]
-                                display_row["Source (PMID)"] = f'<a href="{row["PMID"]}" target="_blank" style="color: #0068c9; text-decoration: none;">{pmid_num}</a>'
-                            else:
-                                display_row["Source (PMID)"] = row["PMID"]
-                            kwic_data_display.append(display_row)
-                            
+                        kwic_df = pd.DataFrame(csv_data)
                         display_df = pd.DataFrame(kwic_data_display)
                         
                         # Generate HTML

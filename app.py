@@ -25,10 +25,6 @@ def load_css():
     st.markdown(
         """
         <style>
-        .stRadio > label {
-            display: none;
-        }
-
         div[role="radiogroup"] {
             display: flex;
             gap: 10px;
@@ -36,7 +32,7 @@ def load_css():
             justify-content: center;
         }
         
-        .stRadio label {
+        .stRadio div[role="radiogroup"] label {
             display: flex;
             align-items: center;
             justify-content: center;
@@ -49,25 +45,25 @@ def load_css():
             flex: 1; /* Makes buttons equal width */
         }
 
-        .stRadio label > div:first-child {
+        .stRadio div[role="radiogroup"] label > div:first-child {
             display: none;
         }
         
-        .stRadio label > div:last-child {
+        .stRadio div[role="radiogroup"] label > div:last-child {
             color: #31333F;
         }
         
-        .stRadio label:hover {
+        .stRadio div[role="radiogroup"] label:hover {
             background-color: #e0e0e0;
             border-color: #aaa;
         }
         
-        .stRadio label:has(input[type="radio"]:checked) {
+        .stRadio div[role="radiogroup"] label:has(input[type="radio"]:checked) {
             background-color: #0068c9;  /* Streamlit's primary blue */
             border-color: #0068c9;
         }
         
-        .stRadio label:has(input[type="radio"]:checked) > div:last-child {
+        .stRadio div[role="radiogroup"] label:has(input[type="radio"]:checked) > div:last-child {
             color: white;
             font-weight: 600;
         }
@@ -399,55 +395,20 @@ text_analyzer = TextAnalyzer()
 st.title("Qualitative Research Dashboard")
 
 st.write("""
-Upload your JSON corpus of academic texts to begin. The app provides tools 
+Select a dataset of academic texts to begin. The app provides tools 
 for corpus analysis, keyword search, topic modeling, and move-step analysis.
 """)
 
-# --- File Uploader and Sample Data ---
-col1, col2 = st.columns([3, 1])
+# --- Sample Data ---
+col1, col2, _ = st.columns([1, 1, 2])
 
 with col1:
-    uploaded_file = st.file_uploader("Upload a JSON file (corpus)", type=["json"])
-
+    sample_data = st.button("Use PubMed Dataset (fast)", type="secondary", use_container_width=True)
 with col2:
-    st.write("&nbsp;")  # Add space to align
-    sample_data = st.button("Use PubMed Dataset (fast)", type="secondary")
-    sample_data_plos = st.button("Use PLOS Dataset (slower)", type="secondary")
+    sample_data_plos = st.button("Use PLOS Dataset (slower)", type="secondary", use_container_width=True)
 
 # --- Data Loading Logic ---
-if uploaded_file is not None:
-    # --- FIX: Reset state when a new file is uploaded ---
-    reset_app_state() 
-    try:
-        string_data = StringIO(uploaded_file.getvalue().decode("utf-8")).read()
-        json_data = JSONProcessor.parse_json(string_data)
-        st.session_state.json_data = json_data
-        st.session_state.current_dataset_source = "Uploaded" # Set source
-        
-        # Extract text fields (focus on methods)
-        if isinstance(json_data, list):
-            methods_fields = []
-            for item in json_data:
-                if isinstance(item, dict) and "materials_and_methods" in item:
-                    methods_fields.append(item["materials_and_methods"])
-            st.session_state.text_fields = methods_fields
-        else:
-            st.session_state.text_fields = JSONProcessor.extract_text_fields(json_data)
-        
-        # --- NEW: Pre-calculate and cache stats ---
-        with st.spinner("Analyzing corpus stats..."):
-            texts_for_cache = tuple(st.session_state.text_fields)
-            st.session_state.basic_stats = get_cached_basic_stats(texts_for_cache)
-            st.session_state.corpus_word_counts = get_cached_word_counts(texts_for_cache, remove_stopwords=True)
-        
-        st.success(f"Successfully processed JSON file with {len(st.session_state.text_fields)} text fields")
-        
-    except Exception as e:
-        st.error(f"Error processing the JSON file: {str(e)}")
-        st.error(traceback.format_exc())
-        reset_app_state()
-        
-elif sample_data:
+if sample_data:
     # --- FIX: Reset state when sample button is clicked ---
     reset_app_state() 
     try:

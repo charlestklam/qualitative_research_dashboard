@@ -944,21 +944,33 @@ if st.session_state.json_data is not None:
                         # Generate HTML
                         html_table = display_df.to_html(escape=False, index=False, classes="kwic-table")
                         
-                        st.markdown(f"""
+                        full_html = f"""
+                        <!DOCTYPE html>
+                        <html>
+                        <head>
                         <style>
+                        body {{
+                            margin: 0;
+                            padding: 0;
+                            font-family: sans-serif;
+                        }}
                         .kwic-table {{
                             width: 100%;
-                            border-collapse: collapse;
+                            border-collapse: separate;
+                            border-spacing: 0;
                             font-size: 14px;
-                            font-family: sans-serif;
                             margin-bottom: 20px;
                         }}
                         .kwic-table th {{
                             background-color: #f0f2f6;
                             padding: 10px;
                             text-align: center !important;
-                            border-bottom: 2px solid #ccc;
+                            border-bottom: 1px solid #ccc;
+                            border-top: 1px solid #f0f2f6;
                             color: #31333F;
+                            position: sticky;
+                            top: -1px;
+                            z-index: 10;
                         }}
                         .kwic-table td {{
                             padding: 8px 10px;
@@ -982,7 +994,7 @@ if st.session_state.json_data is not None:
                             text-align: left !important;
                             width: 40%;
                         }}
-                        /* PMID */
+                        /* Source */
                         .kwic-table td:nth-child(4) {{
                             text-align: center !important;
                             white-space: nowrap;
@@ -991,10 +1003,14 @@ if st.session_state.json_data is not None:
                             background-color: #f9f9f9;
                         }}
                         </style>
-                        """, unsafe_allow_html=True)
-                        
-                        with st.container(height=500):
-                            st.markdown(html_table, unsafe_allow_html=True)
+                        </head>
+                        <body>
+                        {html_table}
+                        </body>
+                        </html>
+                        """
+                        import streamlit.components.v1 as components
+                        components.html(full_html, height=500, scrolling=True)
                         
                         csv = convert_df_to_csv(kwic_df)
                         st.download_button(

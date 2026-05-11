@@ -232,7 +232,18 @@ def render_lda_tab(text_analyzer):
     """)
     
     @st.cache_data(show_spinner=False)
-    def run_lda_cached(_analyzer_ref_hack, texts_tuple, num_topics):
+    def run_lda_cached(_analyzer_ref_hack, texts_tuple, num_topics, dataset_source=None):
+        import os
+        import pickle
+        if dataset_source:
+            filepath = os.path.join("attached_assets", "precomputed_lda", f"{dataset_source}_lda_topics_{num_topics}.pkl")
+            if os.path.exists(filepath):
+                try:
+                    with open(filepath, "rb") as f:
+                        return pickle.load(f)
+                except Exception as e:
+                    print(f"Error loading precomputed LDA: {e}")
+                    
         texts_list = list(texts_tuple)
         return perform_lda_analysis(text_analyzer, texts_list, num_topics=num_topics)
 
@@ -241,8 +252,8 @@ def render_lda_tab(text_analyzer):
         num_topics_lda = st.slider(
             "Select Number of Topics:",
             min_value=3,
-            max_value=20,
-            value=6,  # <-- Default value changed to 6
+            max_value=15,
+            value=6,  # default value
             step=1,
             key="lda_num_topics"
         )
@@ -257,8 +268,9 @@ def render_lda_tab(text_analyzer):
             if st.session_state.text_fields:
                 with st.spinner(f"Running LDA for {num_topics_lda} topics..."):
                     texts_for_cache = tuple(st.session_state.text_fields)
+                    dataset_source = st.session_state.get('current_dataset_source')
                     lda_html_result, lda_model_obj, lda_dict_obj = run_lda_cached(
-                        text_analyzer, texts_for_cache, num_topics_lda
+                        text_analyzer, texts_for_cache, num_topics_lda, dataset_source
                     )
                     st.session_state.lda_model = lda_model_obj
                     st.session_state.lda_dictionary = lda_dict_obj
